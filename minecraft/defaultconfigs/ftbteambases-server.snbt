@@ -1,8 +1,0 @@
-{
-	lobby: {
-		lobby_structure_location: "ftbteambases:lobby"
-		lobby_y_pos: 0
-		lobby_player_yaw: 0.0d
-		lobby_game_mode: "adventure"
-	}
-}
