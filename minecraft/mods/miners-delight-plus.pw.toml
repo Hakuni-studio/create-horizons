@@ -1,0 +1,25 @@
+filename = 'minersdelight-1.21.1-1.4.5.jar'
+name = "Miner's Delight +"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'minersdelight-1.21.1-1.4.5.jar'
+
+[download]
+hash = '9361a43c3b2cfeda977d34a28e25a6e089465dcc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8011049
+project-id = 689630
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '616457'
+type = 'REQUIRED'

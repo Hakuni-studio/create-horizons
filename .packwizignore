@@ -1,0 +1,52 @@
+# Separate dev repos (not part of the modpack)
+create-sky-mod/**
+horizons-animations/**
+
+# Local notes and agent config
+AGENTS.md
+todo.md
+
+# Exported archives
+create:sky-1.0.0.zip
+*.zip
+
+# Downloaded mod JARs (fetched by packwiz-installer / packwiz update)
+minecraft/mods/*.jar
+
+# Runtime / local-only Minecraft data
+minecraft/.cache/**
+minecraft/saves/**
+minecraft/logs/**
+minecraft/crash-reports/**
+minecraft/screenshots/**
+minecraft/.mixin.out/**
+minecraft/ESM/**
+minecraft/coremods/**
+minecraft/data/**
+minecraft/downloads/**
+minecraft/dynamic-data-pack-cache/**
+minecraft/dynamic-resource-pack-cache/**
+minecraft/essential/**
+minecraft/moonlight-global-datapacks/**
+minecraft/particular_cache/**
+minecraft/server-resource-packs/**
+minecraft/schematics/**
+minecraft/command_history.txt
+minecraft/usercache.json
+minecraft/fancymenu_data/**
+minecraft/ESM/**
+
+# Player- and world-specific config (not pack defaults)
+minecraft/config/jei/world/**
+minecraft/config/voicechat/username-cache.json
+minecraft/config/fancymenu/user_variables.db
+minecraft/config/axiom/**
+minecraft/config/**/.backup
+minecraft/config/**/imgui.ini
+minecraft/config/sodium-fingerprint.json
+minecraft/config/euphoria_patcher/.data.json
+
+# Git metadata
+.git/**
+.gitignore
+.gitattributes

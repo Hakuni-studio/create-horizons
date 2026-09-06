@@ -1,0 +1,17 @@
+name = "Create: Horizons"
+author = "Hakuni-studio"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "43fd7d00d620553d2077133119c32d368faa8fd1495674c4ecc0a3ae4eb11205"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"
+
+[options]
+meta-folder-base = "minecraft"
+no-internal-hashes = true

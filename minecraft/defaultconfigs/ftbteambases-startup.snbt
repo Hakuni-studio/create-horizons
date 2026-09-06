@@ -1,0 +1,9 @@
+{
+	lobby_dimension: "ftbteambases:lobby"
+	
+	lobby_spawn_pos: [I;
+		0
+		0
+		0
+	]
+}

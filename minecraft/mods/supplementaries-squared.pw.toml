@@ -1,0 +1,25 @@
+filename = 'suppsquared-neoforge-1.21-1.2.18.jar'
+name = 'Supplementaries Squared'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'suppsquared-1.21-1.2.18-neoforge'
+
+[download]
+hash = '0b6845d2afd22f91275a69ad270a0f0ecbfaebe3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8268988
+project-id = 838411
+
+[[x-prismlauncher-dependencies]]
+addonId = '412082'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '499980'
+type = 'REQUIRED'

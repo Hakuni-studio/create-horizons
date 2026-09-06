@@ -1,0 +1,35 @@
+filename = 'EuphoriaPatcher-1.10.0-r5.9-neoforge.jar'
+name = 'Euphoria Patches'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Euphoria Patcher 1.10.0-r5.9-neoforge'
+
+[download]
+hash = 'd728a26bd67b70dfc510fbb08def619ec015c998'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8791859
+project-id = 915902
