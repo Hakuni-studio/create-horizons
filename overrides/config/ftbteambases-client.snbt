@@ -2,7 +2,7 @@
 	advanced: {
 		# (Advanced) If true, base definition types marked as 'dev_mode: true' will be shown in the base selection GUI. These bases are intended for development mode debugging, and are not generally useful for players.
 		# Default: false
-		show_dev_mode: false
+		show_dev_mode: true
 	}
 	general: {
 		# If true, suppress the void fog effect that appears at low Y levels while in void team dimensions

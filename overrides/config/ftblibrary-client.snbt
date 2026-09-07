@@ -28,9 +28,19 @@
 				x: 2
 				y: 0
 			}
+			"ftbessentials:trash_can": {
+				enabled: true
+				x: 0
+				y: 2
+			}
 			"ftbteams:team_lives": {
 				enabled: true
 				x: 1
+				y: 1
+			}
+			"ftbultimine:config": {
+				enabled: true
+				x: 3
 				y: 1
 			}
 			"ftblibrary:toggle/gamemode": {
@@ -38,14 +48,14 @@
 				x: 0
 				y: 0
 			}
-			"ftbchunks:claim_chunks": {
-				enabled: true
-				x: 0
-				y: 2
-			}
 			"ftblibrary:config": {
 				enabled: true
 				x: 1
+				y: 2
+			}
+			"ftbchunks:claim_chunks": {
+				enabled: true
+				x: 0
 				y: 2
 			}
 			"ftblibrary:toggle/day": {

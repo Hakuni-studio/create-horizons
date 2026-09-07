@@ -8,7 +8,7 @@
 	# New players will be automatically teleported to this dimension the first time they connect.
 	# WARNING: Do NOT modify this on existing worlds!
 	# Default: "minecraft:overworld"
-	lobby_dimension: "minecraft:overworld"
+	lobby_dimension: "ftbteambases:lobby"
 	
 	# Position at which new players spawn.
 	# Only used if the lobby structure comes from a pregenerated region!
