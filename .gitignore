@@ -8,3 +8,5 @@ crash-reports/
 .hakuni/
 node_modules/
 screenshots/
+/overrides/dynamic-data-pack-cache
+/overrides/dynamic-resource-pack-cache
