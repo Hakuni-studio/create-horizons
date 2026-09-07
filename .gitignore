@@ -1,0 +1,10 @@
+# Hakuni / XMCL GitHub pack — never commit jars or local bloat
+mods/
+**/*.jar
+saves/
+logs/
+crash-reports/
+.cache/
+.hakuni/
+node_modules/
+screenshots/

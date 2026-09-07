@@ -1,0 +1,4970 @@
+{
+  "files": [
+    {
+      "path": "theme.json",
+      "size": 923,
+      "hashes": {
+        "sha1": "c3c306870a9056cf3397927a89df7edd88d5dfff"
+      }
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "size": 135,
+      "hashes": {
+        "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
+      }
+    },
+    {
+      "path": "config/advanced_ae-common.toml",
+      "size": 3144,
+      "hashes": {
+        "sha1": "e450ee640f4676577173f53cf8856faaf63ededa"
+      }
+    },
+    {
+      "path": "config/advanced_ae-client.toml",
+      "size": 43,
+      "hashes": {
+        "sha1": "9b53c3fe0efacf117264e50428c4a251393d3abb"
+      }
+    },
+    {
+      "path": "config/advancementplaques.toml",
+      "size": 3197,
+      "hashes": {
+        "sha1": "aa5543d011dc0113d4308d76e412a6f82fc77130"
+      }
+    },
+    {
+      "path": "config/ae2-client.toml",
+      "size": 2286,
+      "hashes": {
+        "sha1": "a391df31fd8d0fdc7e3f5d145c55a1037856b88f"
+      }
+    },
+    {
+      "path": "config/ae2-common.toml",
+      "size": 5876,
+      "hashes": {
+        "sha1": "d35002751f4f8bb5818856ca4b7e9fd4ec84b760"
+      }
+    },
+    {
+      "path": "config/ae2wtlib-client.toml",
+      "size": 38,
+      "hashes": {
+        "sha1": "7b0435f12c92aa154f48ca250976d50d37490881"
+      }
+    },
+    {
+      "path": "config/ae2wtlib.toml",
+      "size": 25,
+      "hashes": {
+        "sha1": "a6e6f2768fb48a3f84cef4d19d22d58a59976672"
+      }
+    },
+    {
+      "path": "config/aeronautics-server.toml",
+      "size": 2958,
+      "hashes": {
+        "sha1": "427bd55fa8cea09a79f6d00947cbca9944a36dd5"
+      }
+    },
+    {
+      "path": "config/aeroworks-client.toml",
+      "size": 285,
+      "hashes": {
+        "sha1": "75a0e65c73f4ee26a82aa1ae6aa606009db5e419"
+      }
+    },
+    {
+      "path": "config/aeroworks-common.toml",
+      "size": 2714,
+      "hashes": {
+        "sha1": "4c5cae33aa3dc393302de80bd3cd34af120fe57a"
+      }
+    },
+    {
+      "path": "config/aiimprovements-common.toml",
+      "size": 6086,
+      "hashes": {
+        "sha1": "35614842fd83876730c7b0aa100d4cc29e08ac77"
+      }
+    },
+    {
+      "path": "config/ambientsounds-client.json",
+      "size": 4198,
+      "hashes": {
+        "sha1": "e29bba5ead5073bd4f0149c3c6738084d8d8e307"
+      }
+    },
+    {
+      "path": "config/appflux-common.toml",
+      "size": 442,
+      "hashes": {
+        "sha1": "1683b08c58d7a9fe0178a36c7d2124d473533189"
+      }
+    },
+    {
+      "path": "config/better-advanced-tooltips-client.toml",
+      "size": 137,
+      "hashes": {
+        "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
+      }
+    },
+    {
+      "path": "config/betterthirdperson-common.toml",
+      "size": 727,
+      "hashes": {
+        "sha1": "1da6da7104fb73756956730440cc348fb14710ec"
+      }
+    },
+    {
+      "path": "config/botanypots.json",
+      "size": 3624,
+      "hashes": {
+        "sha1": "aacea5e606eef59f47c8e4b3fce1b594f0c9c2bb"
+      }
+    },
+    {
+      "path": "config/colorwheel-client.toml",
+      "size": 267,
+      "hashes": {
+        "sha1": "cb7e7f333afac86a0a06fb9b8e8b96a19231b90b"
+      }
+    },
+    {
+      "path": "config/cookingforblockheads-common.toml",
+      "size": 1476,
+      "hashes": {
+        "sha1": "b52affb956d2cb110d9391ca972666a98f7e5537"
+      }
+    },
+    {
+      "path": "config/copycats-client.toml",
+      "size": 331,
+      "hashes": {
+        "sha1": "ee4a884faae0308a657a13d740f1d765e30c642e"
+      }
+    },
+    {
+      "path": "config/copycats-common.toml",
+      "size": 2091,
+      "hashes": {
+        "sha1": "41c5b32a1d8b9b7cc2ae72f130e5c8199c46b488"
+      }
+    },
+    {
+      "path": "config/copycats-server.toml",
+      "size": 351,
+      "hashes": {
+        "sha1": "b07c36170b190726601f453ca534f6eee45aded9"
+      }
+    },
+    {
+      "path": "config/create-client.toml",
+      "size": 4648,
+      "hashes": {
+        "sha1": "498fc51a3ee2b9b97479c5da3761eac070e5be69"
+      }
+    },
+    {
+      "path": "config/create-common.toml",
+      "size": 146,
+      "hashes": {
+        "sha1": "62ed6cc65a2043b7ddc4cb4f7c4f1d42855293de"
+      }
+    },
+    {
+      "path": "config/create-server.toml",
+      "size": 16286,
+      "hashes": {
+        "sha1": "440fd52a3691a245ffef990c365b926e60cb89f8"
+      }
+    },
+    {
+      "path": "config/create_aeronautics_automated_logistics-client.toml",
+      "size": 139,
+      "hashes": {
+        "sha1": "1e55be67586926ffdd0338b4712833b5cbf95786"
+      }
+    },
+    {
+      "path": "config/create_aeronautics_automated_logistics-common.toml",
+      "size": 7005,
+      "hashes": {
+        "sha1": "1783f4024face2210659807587de7f25674a9f96"
+      }
+    },
+    {
+      "path": "config/create_aeronautics_ftb_chunks-server.toml",
+      "size": 563,
+      "hashes": {
+        "sha1": "00a7af2c28c35ef0a03d9a9f9d38abd3f0ef0e00"
+      }
+    },
+    {
+      "path": "config/create_connected-common.toml",
+      "size": 1687,
+      "hashes": {
+        "sha1": "0db83d6d67c43bf777278f91ca949f962579f7c9"
+      }
+    },
+    {
+      "path": "config/create_connected-server.toml",
+      "size": 2005,
+      "hashes": {
+        "sha1": "148622942dcfaccf4362dfab841576dc2ae25969"
+      }
+    },
+    {
+      "path": "config/create_dragons_plus-client.toml",
+      "size": 292,
+      "hashes": {
+        "sha1": "fd12d12912472511b5f117d0c96cd9f7999f7084"
+      }
+    },
+    {
+      "path": "config/create_dragons_plus-common.toml",
+      "size": 1793,
+      "hashes": {
+        "sha1": "c25806d759072a5f2fa2d64e48fef7fc13f22617"
+      }
+    },
+    {
+      "path": "config/create_dragons_plus-server.toml",
+      "size": 1220,
+      "hashes": {
+        "sha1": "b586ba29380c4ff331d266c60315bf16f271c102"
+      }
+    },
+    {
+      "path": "config/create_dragons_plus-simulated-extension-server.toml",
+      "size": 2997,
+      "hashes": {
+        "sha1": "826cbf510b974d9f40e2c699dc14c6e5520995e2"
+      }
+    },
+    {
+      "path": "config/create_enchantment_industry-client.toml",
+      "size": 150,
+      "hashes": {
+        "sha1": "8e85d31752eaa9e931fcab5427a7c1a3f86f6c30"
+      }
+    },
+    {
+      "path": "config/create_enchantment_industry-common.toml",
+      "size": 386,
+      "hashes": {
+        "sha1": "812383ac9d6c3d7d3b6828596f9bfe32b96dcd27"
+      }
+    },
+    {
+      "path": "config/create_enchantment_industry-server.toml",
+      "size": 9653,
+      "hashes": {
+        "sha1": "d1d67e80c1c8494caf312d0ddd87082d66381035"
+      }
+    },
+    {
+      "path": "config/create_hypertube-client.toml",
+      "size": 198,
+      "hashes": {
+        "sha1": "010a5b3a5187a7ce1aee117b52a19c973555c101"
+      }
+    },
+    {
+      "path": "config/create_hypertube-server.toml",
+      "size": 1878,
+      "hashes": {
+        "sha1": "4fe86667fdf43f26aeaa74fe054a3c9ef3007647"
+      }
+    },
+    {
+      "path": "config/create_jetpack-client.toml",
+      "size": 317,
+      "hashes": {
+        "sha1": "c5c79f148043a5ab1ec57bcdcb918dc49ecf25b8"
+      }
+    },
+    {
+      "path": "config/create_jetpack-common.toml",
+      "size": 574,
+      "hashes": {
+        "sha1": "f03de4220af48030fdbba77952ddb5992ab53b02"
+      }
+    },
+    {
+      "path": "config/create_new_age-client.toml",
+      "size": 277,
+      "hashes": {
+        "sha1": "d9acec49f5ed36bd5b7cdd8360818003a932db1d"
+      }
+    },
+    {
+      "path": "config/create_new_age-server.toml",
+      "size": 4736,
+      "hashes": {
+        "sha1": "f398ccbd9188c377db7db40bfc3c7b715494d47b"
+      }
+    },
+    {
+      "path": "config/createcasing-common.toml",
+      "size": 27909,
+      "hashes": {
+        "sha1": "0a4a4da2434ad2f0b8aca1ac66b3ce12d4833168"
+      }
+    },
+    {
+      "path": "config/createdieselgenerators-client.toml",
+      "size": 236,
+      "hashes": {
+        "sha1": "93ba88a441b9e10723e5c5ba49f330bf280d4652"
+      }
+    },
+    {
+      "path": "config/createdieselgenerators-common.toml",
+      "size": 398,
+      "hashes": {
+        "sha1": "254f5d4a342e70247ed62a7d980963d07dbe99e4"
+      }
+    },
+    {
+      "path": "config/createdieselgenerators-server.toml",
+      "size": 1501,
+      "hashes": {
+        "sha1": "3ed4416a4d29e09bb686d0983630649798624be4"
+      }
+    },
+    {
+      "path": "config/createnuclear-common.toml",
+      "size": 1021,
+      "hashes": {
+        "sha1": "7cdd7cc19d2ecbbe7c8d86b07503b0d05b05ae38"
+      }
+    },
+    {
+      "path": "config/createtransmission-server.toml",
+      "size": 145,
+      "hashes": {
+        "sha1": "98b28ed281056c9cc21246207d3b6aa710ccd63c"
+      }
+    },
+    {
+      "path": "config/creativecore-client.json",
+      "size": 23,
+      "hashes": {
+        "sha1": "2ac12a74fc6c40a697dfeb4ee9eda22e9241a6b7"
+      }
+    },
+    {
+      "path": "config/creativecore.json",
+      "size": 274,
+      "hashes": {
+        "sha1": "b97078641402978a24ffe8af190038943b99438a"
+      }
+    },
+    {
+      "path": "config/creeperoverhaul.jsonc",
+      "size": 1913,
+      "hashes": {
+        "sha1": "a8ce6e5ce07b21cc431e88978d1377cdcf85bf2f"
+      }
+    },
+    {
+      "path": "config/crepperoverhaul-client.jsonc",
+      "size": 389,
+      "hashes": {
+        "sha1": "edb798c3662b3e2d709f8de46c8c8e21423a5710"
+      }
+    },
+    {
+      "path": "config/cucumber-client.toml",
+      "size": 182,
+      "hashes": {
+        "sha1": "5521e54328213a8fd0b17c9c73f674ed7b99be87"
+      }
+    },
+    {
+      "path": "config/cucumber-common.toml",
+      "size": 388,
+      "hashes": {
+        "sha1": "8358654389f0f8bf40ccf50e6e90044407844d57"
+      }
+    },
+    {
+      "path": "config/cucumber-tags.json",
+      "size": 938,
+      "hashes": {
+        "sha1": "7880cc38ed6e7e6e94c312ba5f3e4537d573713b"
+      }
+    },
+    {
+      "path": "config/curios-client.toml",
+      "size": 741,
+      "hashes": {
+        "sha1": "369717e89c75b58c3064fc0d1a408c60e9f17070"
+      }
+    },
+    {
+      "path": "config/curios-common.toml",
+      "size": 155,
+      "hashes": {
+        "sha1": "315972fac2e0ad7fb6bbc9f945b05eef57e92cd7"
+      }
+    },
+    {
+      "path": "config/curios-server.toml",
+      "size": 467,
+      "hashes": {
+        "sha1": "81d93eedbe298af8dbc0f41ddf930563de3ed98d"
+      }
+    },
+    {
+      "path": "config/displaydelight-common.toml",
+      "size": 1415,
+      "hashes": {
+        "sha1": "144b4b014208971b1783b117f0673ffc181734d5"
+      }
+    },
+    {
+      "path": "config/entity_model_features.json",
+      "size": 1207,
+      "hashes": {
+        "sha1": "99c62970fbba2f747e648d9f7004a4426e9b422e"
+      }
+    },
+    {
+      "path": "config/entity_texture_features.json",
+      "size": 1452,
+      "hashes": {
+        "sha1": "5fc3d7567c74811f362b997baa24dc25c2163b6e"
+      }
+    },
+    {
+      "path": "config/escalated-server.toml",
+      "size": 325,
+      "hashes": {
+        "sha1": "1355f431bc2c6cad0537d07990a43f445b0d70eb"
+      }
+    },
+    {
+      "path": "config/etf_warnings.json",
+      "size": 28,
+      "hashes": {
+        "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d"
+      }
+    },
+    {
+      "path": "config/extendedae-common.toml",
+      "size": 1637,
+      "hashes": {
+        "sha1": "848c4df233583888c1c37333c0b9c444c5e52236"
+      }
+    },
+    {
+      "path": "config/fallingleaves-client.toml",
+      "size": 1676,
+      "hashes": {
+        "sha1": "91789cc7359eb98d4676d0b182c5f4d1da01a4f1"
+      }
+    },
+    {
+      "path": "config/fallingtree.json",
+      "size": 1313,
+      "hashes": {
+        "sha1": "6d0e8b8fb432a816617cc6f838a287b276789433"
+      }
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "size": 470,
+      "hashes": {
+        "sha1": "376d9f84ec76953b4cd907387f4fc55069350250"
+      }
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "size": 3757,
+      "hashes": {
+        "sha1": "7600f1899a7704d0cc4f0a81f4694b8c47026bcf"
+      }
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "size": 1579,
+      "hashes": {
+        "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
+      }
+    },
+    {
+      "path": "config/firstperson.json",
+      "size": 593,
+      "hashes": {
+        "sha1": "55267bb6ab68f555c50522997ff88d3dae99df15"
+      }
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "size": 623,
+      "hashes": {
+        "sha1": "7f5b0523e9a90418cdda73ba1da0804cfa0b8d73"
+      }
+    },
+    {
+      "path": "config/fml.toml",
+      "size": 1518,
+      "hashes": {
+        "sha1": "5448b202d300702f6b654b522bbd2c39743702c0"
+      }
+    },
+    {
+      "path": "config/ftbchunks-client.snbt",
+      "size": 7710,
+      "hashes": {
+        "sha1": "73a08288e56222702ced19e7814c787a55e9f1f2"
+      }
+    },
+    {
+      "path": "config/ftbchunks-world.snbt",
+      "size": 9109,
+      "hashes": {
+        "sha1": "faf56073f7c692d832d47cd101d624dbeba7e400"
+      }
+    },
+    {
+      "path": "config/ftblibrary-client.snbt",
+      "size": 1709,
+      "hashes": {
+        "sha1": "018b4571adecc47de6acbf7814ee98158b10ed09"
+      }
+    },
+    {
+      "path": "config/ftbquests-client.snbt",
+      "size": 1470,
+      "hashes": {
+        "sha1": "11b4ddbe19980a0188b9a63a99fd8a1a727c9750"
+      }
+    },
+    {
+      "path": "config/ftbteambases-client.snbt",
+      "size": 636,
+      "hashes": {
+        "sha1": "ec391b4cdeb71cb0a8fff5eb7dc8bb4d937a1979"
+      }
+    },
+    {
+      "path": "config/ftbteambases-server.snbt",
+      "size": 6948,
+      "hashes": {
+        "sha1": "d38ccfd27d195ede3b888c826c719b35264b40cb"
+      }
+    },
+    {
+      "path": "config/ftbteambases-startup.snbt",
+      "size": 957,
+      "hashes": {
+        "sha1": "8f6bb451197749038a90fcb2c8552beadd2314bf"
+      }
+    },
+    {
+      "path": "config/ftbteams-server.snbt",
+      "size": 1088,
+      "hashes": {
+        "sha1": "a2faae164b7c2e348a10b4761979297c289a192e"
+      }
+    },
+    {
+      "path": "config/getittogetherdrops-server.toml",
+      "size": 326,
+      "hashes": {
+        "sha1": "b85abab139eda3b8afc42094768daa1be3889751"
+      }
+    },
+    {
+      "path": "config/guideme.toml",
+      "size": 544,
+      "hashes": {
+        "sha1": "8a311cab983d7ea0ebdc1566ec885c17c7f11f93"
+      }
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "size": 1114,
+      "hashes": {
+        "sha1": "9005fdfb4eeaa64cf158b244b263aa5347d03db0"
+      }
+    },
+    {
+      "path": "config/iris-excluded.json",
+      "size": 31,
+      "hashes": {
+        "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba"
+      }
+    },
+    {
+      "path": "config/iris.properties",
+      "size": 273,
+      "hashes": {
+        "sha1": "4b5f6213e54750e191d046708cdaeb8c982f5010"
+      }
+    },
+    {
+      "path": "config/ironfurnaces-common.toml",
+      "size": 6927,
+      "hashes": {
+        "sha1": "ddfdb6994d9dd9c1d9676953cda774a4ff07cabb"
+      }
+    },
+    {
+      "path": "config/jei-server.toml",
+      "size": 317,
+      "hashes": {
+        "sha1": "07363b086ec2af8c224fbb4a762ad3c59633835c"
+      }
+    },
+    {
+      "path": "config/lambdynlights.toml",
+      "size": 1448,
+      "hashes": {
+        "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2"
+      }
+    },
+    {
+      "path": "config/legendarytooltips.toml",
+      "size": 9195,
+      "hashes": {
+        "sha1": "498f211be6d074fe1141fe630276516c8515e5e9"
+      }
+    },
+    {
+      "path": "config/modelfix-client.toml",
+      "size": 1359,
+      "hashes": {
+        "sha1": "e5dbd8ee9d534eb28c70b8e56a45baa33f15f1d5"
+      }
+    },
+    {
+      "path": "config/modernfix-common.toml",
+      "size": 103,
+      "hashes": {
+        "sha1": "67d29a1db4c6d7d97b4912e5ef3aae34347d3e38"
+      }
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "size": 5491,
+      "hashes": {
+        "sha1": "363b263796d22b72e97e89072413e529bcd692ee"
+      }
+    },
+    {
+      "path": "config/moonlight-client.toml",
+      "size": 2108,
+      "hashes": {
+        "sha1": "7b8c615b82b9162fef6161f8951a046e1c2e14cd"
+      }
+    },
+    {
+      "path": "config/moonlight-common.toml",
+      "size": 949,
+      "hashes": {
+        "sha1": "4d66f0f9b463792e9ed36780928d349421ff9ab2"
+      }
+    },
+    {
+      "path": "config/mynethersdelight-common.toml",
+      "size": 1867,
+      "hashes": {
+        "sha1": "b6f2bb553bc9ed6312e0fa5258958a6486cac7d0"
+      }
+    },
+    {
+      "path": "config/mysticalagriculture-common.toml",
+      "size": 2431,
+      "hashes": {
+        "sha1": "205bc2d71e0928ebe44652b80306b4c36c3ebcd7"
+      }
+    },
+    {
+      "path": "config/neoforge-client.toml",
+      "size": 570,
+      "hashes": {
+        "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
+      }
+    },
+    {
+      "path": "config/neoforge-common.toml",
+      "size": 764,
+      "hashes": {
+        "sha1": "2912b55694531e5ab90981a12f1844439d969e04"
+      }
+    },
+    {
+      "path": "config/neoforge-server.toml",
+      "size": 1167,
+      "hashes": {
+        "sha1": "6e589499975366719134967e8ad049ee10d8caac"
+      }
+    },
+    {
+      "path": "config/notenoughanimations.json",
+      "size": 3359,
+      "hashes": {
+        "sha1": "ed5e983dd47739d9030afdbbaed4b90fe49bcd26"
+      }
+    },
+    {
+      "path": "config/numismatics-client.toml",
+      "size": 393,
+      "hashes": {
+        "sha1": "d4310c081cbe4dd7b518d0a7be23bee369c0445f"
+      }
+    },
+    {
+      "path": "config/numismatics-common.toml",
+      "size": 163,
+      "hashes": {
+        "sha1": "0efaab2dfe35240dec331bfbacafe317675a3b67"
+      }
+    },
+    {
+      "path": "config/numismatics-server.toml",
+      "size": 671,
+      "hashes": {
+        "sha1": "f9d6210b99ec523d413c123781d189e4c0410425"
+      }
+    },
+    {
+      "path": "config/offroad-server.toml",
+      "size": 1128,
+      "hashes": {
+        "sha1": "1dc8951f873e490ae81989d878cb8b5101455d49"
+      }
+    },
+    {
+      "path": "config/particle_core_config.toml",
+      "size": 306,
+      "hashes": {
+        "sha1": "43e6c438d51b00a097df56f6625d62bd3ce8029a"
+      }
+    },
+    {
+      "path": "config/particle_core_disabled_optimizations_v2.json",
+      "size": 1558,
+      "hashes": {
+        "sha1": "b4bf74388de7da02460fe124655439bfbcf2c29a"
+      }
+    },
+    {
+      "path": "config/particular-common.toml",
+      "size": 5789,
+      "hashes": {
+        "sha1": "4897077ac4452134e5c50b3b208afd6a04c56dd5"
+      }
+    },
+    {
+      "path": "config/ponder-client.toml",
+      "size": 615,
+      "hashes": {
+        "sha1": "deddc6f67e212577af0151dd6e0ddf7830a65d3e"
+      }
+    },
+    {
+      "path": "config/refurbished_furniture.client.toml",
+      "size": 1152,
+      "hashes": {
+        "sha1": "b16c0c11b0ac4e6582c572178d4f673364a801e2"
+      }
+    },
+    {
+      "path": "config/refurbished_furniture.server.toml",
+      "size": 8038,
+      "hashes": {
+        "sha1": "669ceb0cf3521229c7ce4c4b15df0cdc04de5812"
+      }
+    },
+    {
+      "path": "config/relics.yaml",
+      "size": 1487,
+      "hashes": {
+        "sha1": "0f718226a3f08514c462959a86adb26d8032cea3"
+      }
+    },
+    {
+      "path": "config/resourceful-config-web.json",
+      "size": 196,
+      "hashes": {
+        "sha1": "d5215c15f42a9a2ac9de5f9a56dea3971048ba98"
+      }
+    },
+    {
+      "path": "config/rightclickharvest.json5",
+      "size": 590,
+      "hashes": {
+        "sha1": "60ab072038d458c6498558b0422d81cda02ded4b"
+      }
+    },
+    {
+      "path": "config/sable-client.toml",
+      "size": 925,
+      "hashes": {
+        "sha1": "e8f806b583ccda048e84a0bb6294e01968beea9e"
+      }
+    },
+    {
+      "path": "config/sable-common.toml",
+      "size": 2199,
+      "hashes": {
+        "sha1": "00dc7fcbb01ea87c7020307e5481e174977f4d79"
+      }
+    },
+    {
+      "path": "config/sable-server.toml",
+      "size": 322,
+      "hashes": {
+        "sha1": "2ae72c8b6392b27c338bb2392ecf00733f032fe1"
+      }
+    },
+    {
+      "path": "config/simulated-client.toml",
+      "size": 1009,
+      "hashes": {
+        "sha1": "5ecd38c0dc2dc7245bbbb7ad0187a1196f816d2f"
+      }
+    },
+    {
+      "path": "config/simulated-server.toml",
+      "size": 7015,
+      "hashes": {
+        "sha1": "1ab3343ed4a74008ad939c208a2536d7b3e79fe0"
+      }
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "size": 2136,
+      "hashes": {
+        "sha1": "2fe88902b447b908a0ac441b9275c56e01cdcd29"
+      }
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "size": 360,
+      "hashes": {
+        "sha1": "e90b2514226a0624cf42112b42477f9872598b89"
+      }
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "size": 427,
+      "hashes": {
+        "sha1": "fbf9f1f2dc28748ec44dd840bd60cf64d4a6166c"
+      }
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "size": 258,
+      "hashes": {
+        "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+      }
+    },
+    {
+      "path": "config/sodium-options.json",
+      "size": 762,
+      "hashes": {
+        "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
+      }
+    },
+    {
+      "path": "config/sophisticated_jei_index-common.toml",
+      "size": 522,
+      "hashes": {
+        "sha1": "d3c71ca0584a2a6dec3982baba9bd0a229e9e093"
+      }
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "size": 114,
+      "hashes": {
+        "sha1": "1b8594736f89ee42205972c77bf5ab5fc0682258"
+      }
+    },
+    {
+      "path": "config/sophisticatedbackpacks-server.toml",
+      "size": 23521,
+      "hashes": {
+        "sha1": "2297545daa06e7ae0a1f1ca41a6a20f8ea61f6d0"
+      }
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "size": 469,
+      "hashes": {
+        "sha1": "c8f544c7ab59384386ae7edb40b3840d90114e7d"
+      }
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "size": 11429,
+      "hashes": {
+        "sha1": "23687d3f0401d603655545311a24b2f60455ff84"
+      }
+    },
+    {
+      "path": "config/sophisticatedstorage-client.toml",
+      "size": 441,
+      "hashes": {
+        "sha1": "89b1512ed55ba3ec5a5019ae288bd02b4a627545"
+      }
+    },
+    {
+      "path": "config/sophisticatedstorage-common.toml",
+      "size": 182,
+      "hashes": {
+        "sha1": "fcb62fb2d4bfeb7f66a883dcdfb5e8f066ccdbaa"
+      }
+    },
+    {
+      "path": "config/sophisticatedstorage-server.toml",
+      "size": 25054,
+      "hashes": {
+        "sha1": "3b0a8260dc0c5975d632120515c90f84d5f2ca50"
+      }
+    },
+    {
+      "path": "config/soundofrain-client.toml",
+      "size": 1822,
+      "hashes": {
+        "sha1": "67957044b77082f12ed2dc9ae812c4de202b36f2"
+      }
+    },
+    {
+      "path": "config/supplementaries-client.toml",
+      "size": 8863,
+      "hashes": {
+        "sha1": "a2229fda11749beda7dfe9fbe4725135c2eff762"
+      }
+    },
+    {
+      "path": "config/supplementaries-common.toml",
+      "size": 30967,
+      "hashes": {
+        "sha1": "d6efac40bc8d5e3e235f129c8dd40dd113f8cdbf"
+      }
+    },
+    {
+      "path": "config/suppsquared-common.toml",
+      "size": 79,
+      "hashes": {
+        "sha1": "88e449325509c8d2c8b79e869a03ef72634b5b59"
+      }
+    },
+    {
+      "path": "config/tempad-client.jsonc",
+      "size": 241,
+      "hashes": {
+        "sha1": "ddb1a9e3177f726dafc6e0f67124f6380202f8ca"
+      }
+    },
+    {
+      "path": "config/tempad.jsonc",
+      "size": 4823,
+      "hashes": {
+        "sha1": "b4b0cccfdac0cab2e05c676474c2045c9a2322b2"
+      }
+    },
+    {
+      "path": "config/tfmg-common.toml",
+      "size": 2936,
+      "hashes": {
+        "sha1": "d9704d46c2d5b5aaed894a1640fc39efabfed0f6"
+      }
+    },
+    {
+      "path": "config/tfmg-server.toml",
+      "size": 1848,
+      "hashes": {
+        "sha1": "8d9d5690b37f475443125cfb03d3bd28d9fb65f6"
+      }
+    },
+    {
+      "path": "config/trading_floor-server.toml",
+      "size": 583,
+      "hashes": {
+        "sha1": "6d8a49cbd63a585f66812bcf036e9a3709d48384"
+      }
+    },
+    {
+      "path": "config/transition.json",
+      "size": 97,
+      "hashes": {
+        "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5"
+      }
+    },
+    {
+      "path": "config/trashcans-common.toml",
+      "size": 292,
+      "hashes": {
+        "sha1": "873d0f0f388cc78f51acca886731dd6f99504c86"
+      }
+    },
+    {
+      "path": "config/trender.json",
+      "size": 47,
+      "hashes": {
+        "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
+      }
+    },
+    {
+      "path": "config/visualworkbench-client.toml",
+      "size": 449,
+      "hashes": {
+        "sha1": "00f1db890f429a8bebed1ff56dd8162d288f5f3d"
+      }
+    },
+    {
+      "path": "config/visualworkbench-server.toml",
+      "size": 145,
+      "hashes": {
+        "sha1": "6452f41375f3ff719b39454dc7c800df90f50d81"
+      }
+    },
+    {
+      "path": "downloads/log.json",
+      "size": 0,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      }
+    },
+    {
+      "path": "fancymenu_data/last_world.fmdata",
+      "size": 136,
+      "hashes": {
+        "sha1": "ede43dc096d790be08d76e573631ae17cbc1d003"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/hash.txt",
+      "size": 64,
+      "hashes": {
+        "sha1": "e546a40d1bea45b0f918998ad10788409717b8e1"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/hash.txt",
+      "size": 64,
+      "hashes": {
+        "sha1": "c1e8765b027cba890e4426622989d42728c93526"
+      }
+    },
+    {
+      "path": "ftbteambases/pending_purge.json",
+      "size": 19,
+      "hashes": {
+        "sha1": "b5bd6580c064e716263c26bbfde3c2444eb7748f"
+      }
+    },
+    {
+      "path": "kubejs/README.txt",
+      "size": 1203,
+      "hashes": {
+        "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
+      }
+    },
+    {
+      "path": "mods/AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+      "size": 1686091,
+      "hashes": {
+        "sha1": "c6cb26a2031687d801bf1763dc0c75cd92f3715c"
+      },
+      "curseforge": {
+        "projectId": 961856,
+        "fileId": 7622554
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7622/554/AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7622/554/AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/AI-Improvements-1.21-0.5.3.jar",
+      "size": 28984,
+      "hashes": {
+        "sha1": "b4a8e11384454bcc341043b251db7fb5afdfdf45"
+      },
+      "curseforge": {
+        "projectId": 233019,
+        "fileId": 5426792
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/5426/792/AI-Improvements-1.21-0.5.3.jar",
+        "https://mediafiles.forgecdn.net/files/5426/792/AI-Improvements-1.21-0.5.3.jar"
+      ]
+    },
+    {
+      "path": "mods/AdvancedAE-1.6.12-1.21.1.jar",
+      "size": 4791255,
+      "hashes": {
+        "sha1": "9358ccfa5477c7ab1c5ffab6c831e105fe46ecc3"
+      },
+      "modrinth": {
+        "projectId": "rxYaglEe",
+        "versionId": "ablTMAjP"
+      },
+      "curseforge": {
+        "projectId": 1084104,
+        "fileId": 8564177
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8564/177/AdvancedAE-1.6.12-1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8564/177/AdvancedAE-1.6.12-1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "size": 195730,
+      "hashes": {
+        "sha1": "829d33e71b30e9158d772f5963bb6020f6026d78"
+      },
+      "modrinth": {
+        "projectId": "9NM0dXub",
+        "versionId": "OWylG33I"
+      },
+      "curseforge": {
+        "projectId": 499826,
+        "fileId": 5905995
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9NM0dXub/versions/OWylG33I/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar"
+      ]
+    },
+    {
+      "path": "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "size": 84811632,
+      "hashes": {
+        "sha1": "c79ab328b2c46068effebdcb3f26e98dc4404cb0"
+      },
+      "curseforge": {
+        "projectId": 254284,
+        "fileId": 8043019
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8043/019/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+        "https://edge.forgecdn.net/files/8043/19/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8043/019/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/AppliedFlux-1.21-2.1.5-neoforge.jar",
+      "size": 345117,
+      "hashes": {
+        "sha1": "a98eeadf414e6b3f6878324a3fbdee3fa5fcdadf"
+      },
+      "curseforge": {
+        "projectId": 965012,
+        "fileId": 8204513
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8204/513/AppliedFlux-1.21-2.1.5-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/8204/513/AppliedFlux-1.21-2.1.5-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/BetterThirdPerson-neoforge-1.9.0.jar",
+      "size": 60941,
+      "hashes": {
+        "sha1": "e91af996b413bb498e276bf410d0deff52a34a74"
+      },
+      "curseforge": {
+        "projectId": 435044,
+        "fileId": 5833474
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/5833/474/BetterThirdPerson-neoforge-1.9.0.jar",
+        "https://mediafiles.forgecdn.net/files/5833/474/BetterThirdPerson-neoforge-1.9.0.jar"
+      ]
+    },
+    {
+      "path": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "size": 77555,
+      "hashes": {
+        "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+      },
+      "curseforge": {
+        "projectId": 250398,
+        "fileId": 6368976
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar",
+        "https://mediafiles.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar"
+      ]
+    },
+    {
+      "path": "mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar",
+      "size": 3481341,
+      "hashes": {
+        "sha1": "ec9e35065ce3a49ecec6bd6ff7fec6992476f7bb"
+      },
+      "curseforge": {
+        "projectId": 1154099,
+        "fileId": 8636685
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8636/685/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar",
+        "https://mediafiles.forgecdn.net/files/8636/685/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
+      ]
+    },
+    {
+      "path": "mods/Create Encased-1.21.1-1.9.0-ht3.jar",
+      "size": 3110804,
+      "hashes": {
+        "sha1": "bc749c8ec3ad4fef7d5a052c904008971158f274"
+      },
+      "modrinth": {
+        "projectId": "hSSqdyU1",
+        "versionId": "t6MATlU9"
+      },
+      "curseforge": {
+        "projectId": 829380,
+        "fileId": 8549840
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8549/840/Create Encased-1.21.1-1.9.0-ht3.jar",
+        "https://edge.forgecdn.net/files/8549/840/Create%20Encased-1.21.1-1.9.0-ht3.jar",
+        "https://mediafiles.forgecdn.net/files/8549/840/Create Encased-1.21.1-1.9.0-ht3.jar"
+      ]
+    },
+    {
+      "path": "mods/CreateDragonsPlus-1.11.8b.jar",
+      "size": 1048120,
+      "hashes": {
+        "sha1": "d7afe1cf1c646d1bb5ce152af06e35afcb60b8dd"
+      },
+      "modrinth": {
+        "projectId": "dzb1a5WV",
+        "versionId": "G8QQJPtF"
+      },
+      "curseforge": {
+        "projectId": 1216624,
+        "fileId": 8811294
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8811/294/CreateDragonsPlus-1.11.8b.jar",
+        "https://mediafiles.forgecdn.net/files/8811/294/CreateDragonsPlus-1.11.8b.jar"
+      ]
+    },
+    {
+      "path": "mods/CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar",
+      "size": 1894517,
+      "hashes": {
+        "sha1": "5cd4817442ae95f886a2d31534166e9883ed4bb2"
+      },
+      "modrinth": {
+        "projectId": "Jdbbtt0i",
+        "versionId": "kVi3TESX"
+      },
+      "curseforge": {
+        "projectId": 889722,
+        "fileId": 8745418
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8745/418/CreateNumismatics-1.1.0%2bneoforge-mc1.21.1.jar",
+        "https://edge.forgecdn.net/files/8745/418/CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8745/418/CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
+      "size": 1232783,
+      "hashes": {
+        "sha1": "ed55360f72cd6666a1b191506a6270e05ef1ef49"
+      },
+      "modrinth": {
+        "projectId": "OsZiaDHq",
+        "versionId": "JX9o5pJD"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/OsZiaDHq/versions/JX9o5pJD/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "size": 1185088,
+      "hashes": {
+        "sha1": "5a07cc032df790e7d110ad3dedb7a76253ffd565"
+      },
+      "curseforge": {
+        "projectId": 561625,
+        "fileId": 6051279
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6051/279/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+        "https://mediafiles.forgecdn.net/files/6051/279/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
+      ]
+    },
+    {
+      "path": "mods/Cucumber-1.21.1-8.0.16.jar",
+      "size": 275588,
+      "hashes": {
+        "sha1": "0e97553af44d39d1976fe6feb4baf1c30c6b2f06"
+      },
+      "modrinth": {
+        "projectId": "Rw1NrDzF",
+        "versionId": "8421rqFF"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Rw1NrDzF/versions/8421rqFF/Cucumber-1.21.1-8.0.16.jar"
+      ]
+    },
+    {
+      "path": "mods/ExtendedAE-1.21-2.2.36-neoforge.jar",
+      "size": 5915336,
+      "hashes": {
+        "sha1": "35f6e499d4fb457af1cdcb677069a8241b8117c6"
+      },
+      "curseforge": {
+        "projectId": 892005,
+        "fileId": 8811572
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8811/572/ExtendedAE-1.21-2.2.36-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/8811/572/ExtendedAE-1.21-2.2.36-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/FallingTree-1.21.1-1.21.1.11.jar",
+      "size": 496356,
+      "hashes": {
+        "sha1": "626e7ec3a979dcc15d8e65c53207572c41c1b255"
+      },
+      "curseforge": {
+        "projectId": 349559,
+        "fileId": 6835168
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6835/168/FallingTree-1.21.1-1.21.1.11.jar",
+        "https://mediafiles.forgecdn.net/files/6835/168/FallingTree-1.21.1-1.21.1.11.jar"
+      ]
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
+      "size": 3160490,
+      "hashes": {
+        "sha1": "27675ddfcb8cc37e6ea1ab6c15051c7949d94657"
+      },
+      "curseforge": {
+        "projectId": 398521,
+        "fileId": 8765184
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8765/184/FarmersDelight-1.21.1-1.3.4.jar",
+        "https://mediafiles.forgecdn.net/files/8765/184/FarmersDelight-1.21.1-1.3.4.jar"
+      ]
+    },
+    {
+      "path": "mods/Glodium-1.21-2.2-neoforge.jar",
+      "size": 61377,
+      "hashes": {
+        "sha1": "9f61a3162665ad0b37f6f268339ac98097af1a87"
+      },
+      "modrinth": {
+        "projectId": "UhW5uCKw",
+        "versionId": "pfbmdJ3b"
+      },
+      "curseforge": {
+        "projectId": 957920,
+        "fileId": 5821676
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/5821/676/Glodium-1.21-2.2-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/5821/676/Glodium-1.21-2.2-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "size": 213853,
+      "hashes": {
+        "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8"
+      },
+      "modrinth": {
+        "projectId": "5faXoLqX",
+        "versionId": "IMssx9du"
+      },
+      "curseforge": {
+        "projectId": 520110,
+        "fileId": 6423863
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar"
+      ]
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
+      "size": 362740,
+      "hashes": {
+        "sha1": "cfc87deced26f78e46143fe5f0a33597d06845a8"
+      },
+      "modrinth": {
+        "projectId": "5ZwdcRci",
+        "versionId": "xcQYt0Uy"
+      },
+      "curseforge": {
+        "projectId": 686911,
+        "fileId": 8749421
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8749/421/ImmediatelyFast-NeoForge-1.6.13%2b1.21.1.jar",
+        "https://edge.forgecdn.net/files/8749/421/ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8749/421/ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "size": 726853,
+      "hashes": {
+        "sha1": "88ee316e68900080b017f60c12162e2731924cf8"
+      },
+      "modrinth": {
+        "projectId": "nvQzSEkH",
+        "versionId": "eYz2YBGT"
+      },
+      "curseforge": {
+        "projectId": 324717,
+        "fileId": 8591319
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8591/319/Jade-1.21.1-NeoForge-15.10.6.jar",
+        "https://mediafiles.forgecdn.net/files/8591/319/Jade-1.21.1-NeoForge-15.10.6.jar"
+      ]
+    },
+    {
+      "path": "mods/JadeAddons-1.21.1-NeoForge-6.1.1.jar",
+      "size": 75431,
+      "hashes": {
+        "sha1": "6c50a845ac3d336fa88e6466c36aa8b3815ca5c5"
+      },
+      "curseforge": {
+        "projectId": 583345,
+        "fileId": 8777229
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8777/229/JadeAddons-1.21.1-NeoForge-6.1.1.jar",
+        "https://mediafiles.forgecdn.net/files/8777/229/JadeAddons-1.21.1-NeoForge-6.1.1.jar"
+      ]
+    },
+    {
+      "path": "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "size": 81808,
+      "hashes": {
+        "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b"
+      },
+      "curseforge": {
+        "projectId": 532127,
+        "fileId": 6400660
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6400/660/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+        "https://mediafiles.forgecdn.net/files/6400/660/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+      ]
+    },
+    {
+      "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "size": 73938,
+      "hashes": {
+        "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
+      },
+      "modrinth": {
+        "projectId": "aC3cM3Vq",
+        "versionId": "9I21YYxf"
+      },
+      "curseforge": {
+        "projectId": 60089,
+        "fileId": 5637846
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "https://mediafiles.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+      ]
+    },
+    {
+      "path": "mods/MyNethersDelight-1.21.1-1.10.4.jar",
+      "size": 904388,
+      "hashes": {
+        "sha1": "6f2803d6a84d296e07382dd2f6c13c3b4fd57cbd"
+      },
+      "curseforge": {
+        "projectId": 1003673,
+        "fileId": 8535835
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8535/835/MyNethersDelight-1.21.1-1.10.4.jar",
+        "https://mediafiles.forgecdn.net/files/8535/835/MyNethersDelight-1.21.1-1.10.4.jar"
+      ]
+    },
+    {
+      "path": "mods/MysticalAgriculture-1.21.1-8.0.28.jar",
+      "size": 2324648,
+      "hashes": {
+        "sha1": "4f8b9221eb85afdbeeb514e144491c28504cb24e"
+      },
+      "curseforge": {
+        "projectId": 246640,
+        "fileId": 8796913
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8796/913/MysticalAgriculture-1.21.1-8.0.28.jar",
+        "https://mediafiles.forgecdn.net/files/8796/913/MysticalAgriculture-1.21.1-8.0.28.jar"
+      ]
+    },
+    {
+      "path": "mods/MysticalCustomization-1.21.1-6.0.2.jar",
+      "size": 49374,
+      "hashes": {
+        "sha1": "483c44e51b8f4c8dd24c239f945a819da766d219"
+      },
+      "curseforge": {
+        "projectId": 280441,
+        "fileId": 7666340
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7666/340/MysticalCustomization-1.21.1-6.0.2.jar",
+        "https://mediafiles.forgecdn.net/files/7666/340/MysticalCustomization-1.21.1-6.0.2.jar"
+      ]
+    },
+    {
+      "path": "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "size": 544378,
+      "hashes": {
+        "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad"
+      },
+      "curseforge": {
+        "projectId": 916747,
+        "fileId": 8040848
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8040/848/OctoLib-NEOFORGE-0.6.2%2b1.21.jar",
+        "https://edge.forgecdn.net/files/8040/848/OctoLib-NEOFORGE-0.6.2+1.21.jar",
+        "https://mediafiles.forgecdn.net/files/8040/848/OctoLib-NEOFORGE-0.6.2+1.21.jar"
+      ]
+    },
+    {
+      "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
+      "size": 62031,
+      "hashes": {
+        "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f"
+      },
+      "curseforge": {
+        "projectId": 638111,
+        "fileId": 6372979
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6372/979/Prism-1.21.1-neoforge-1.0.11.jar",
+        "https://mediafiles.forgecdn.net/files/6372/979/Prism-1.21.1-neoforge-1.0.11.jar"
+      ]
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
+      "size": 1442182,
+      "hashes": {
+        "sha1": "319fc1ea1498920b39a318ea324f6112a7318d67"
+      },
+      "curseforge": {
+        "projectId": 495476,
+        "fileId": 8829114
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8829/114/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
+        "https://mediafiles.forgecdn.net/files/8829/114/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar"
+      ]
+    },
+    {
+      "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "size": 77326,
+      "hashes": {
+        "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+      },
+      "curseforge": {
+        "projectId": 858542,
+        "fileId": 5831692
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar",
+        "https://mediafiles.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar"
+      ]
+    },
+    {
+      "path": "mods/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
+      "size": 76670,
+      "hashes": {
+        "sha1": "dd5b71bff42ce3f845afc9c3640d4f4f63ccdb1b"
+      },
+      "curseforge": {
+        "projectId": 500273,
+        "fileId": 8793655
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8793/655/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
+        "https://mediafiles.forgecdn.net/files/8793/655/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar"
+      ]
+    },
+    {
+      "path": "mods/ae2jeiintegration-1.2.1.jar",
+      "size": 91710,
+      "hashes": {
+        "sha1": "e99898b3e9c32bf6ac757e7ad50247746622cdfc"
+      },
+      "curseforge": {
+        "projectId": 1074338,
+        "fileId": 7727898
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7727/898/ae2jeiintegration-1.2.1.jar",
+        "https://mediafiles.forgecdn.net/files/7727/898/ae2jeiintegration-1.2.1.jar"
+      ]
+    },
+    {
+      "path": "mods/ae2wtlib-19.5.1.jar",
+      "size": 252091,
+      "hashes": {
+        "sha1": "b1bee01393b15f1eb0f46d58862ef99234e1d337"
+      },
+      "modrinth": {
+        "projectId": "pNabrMMw",
+        "versionId": "CxSEpEnO"
+      },
+      "curseforge": {
+        "projectId": 459929,
+        "fileId": 8450398
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8450/398/ae2wtlib-19.5.1.jar",
+        "https://mediafiles.forgecdn.net/files/8450/398/ae2wtlib-19.5.1.jar"
+      ]
+    },
+    {
+      "path": "mods/aeroworks-1.5.0.jar",
+      "size": 790152,
+      "hashes": {
+        "sha1": "a14ff1c30f3c824b36ee6e2e711a47fd537a5c5f"
+      },
+      "curseforge": {
+        "projectId": 1522473,
+        "fileId": 8743051
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8743/051/aeroworks-1.5.0.jar",
+        "https://edge.forgecdn.net/files/8743/51/aeroworks-1.5.0.jar",
+        "https://mediafiles.forgecdn.net/files/8743/051/aeroworks-1.5.0.jar"
+      ]
+    },
+    {
+      "path": "mods/appliedenergistics2-19.2.17.jar",
+      "size": 8230896,
+      "hashes": {
+        "sha1": "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14"
+      },
+      "modrinth": {
+        "projectId": "XxWD5pD3",
+        "versionId": "kfyIqgJ6"
+      },
+      "curseforge": {
+        "projectId": 223794,
+        "fileId": 7027323
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7027/323/appliedenergistics2-19.2.17.jar",
+        "https://mediafiles.forgecdn.net/files/7027/323/appliedenergistics2-19.2.17.jar"
+      ]
+    },
+    {
+      "path": "mods/architectury-13.0.11-neoforge.jar",
+      "size": 584734,
+      "hashes": {
+        "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1"
+      },
+      "modrinth": {
+        "projectId": "lhGA9TYQ",
+        "versionId": "1IiqEQGl"
+      },
+      "curseforge": {
+        "projectId": 419699,
+        "fileId": 8492726
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8492/726/architectury-13.0.11-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/8492/726/architectury-13.0.11-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/artifacts-neoforge-13.2.5.jar",
+      "size": 1086922,
+      "hashes": {
+        "sha1": "fb6cd3be2d034dde369ffd7558c95c6daa44189e"
+      },
+      "curseforge": {
+        "projectId": 312353,
+        "fileId": 8791899
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8791/899/artifacts-neoforge-13.2.5.jar",
+        "https://mediafiles.forgecdn.net/files/8791/899/artifacts-neoforge-13.2.5.jar"
+      ]
+    },
+    {
+      "path": "mods/athena-neoforge-1.21.1-4.0.6.jar",
+      "size": 99944,
+      "hashes": {
+        "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b"
+      },
+      "curseforge": {
+        "projectId": 841890,
+        "fileId": 8061947
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8061/947/athena-neoforge-1.21.1-4.0.6.jar",
+        "https://mediafiles.forgecdn.net/files/8061/947/athena-neoforge-1.21.1-4.0.6.jar"
+      ]
+    },
+    {
+      "path": "mods/balm-neoforge-1.21.1-21.0.65.jar",
+      "size": 783793,
+      "hashes": {
+        "sha1": "69e0b3b69dd23c132e85b7e82310f45ae96b263d"
+      },
+      "modrinth": {
+        "projectId": "MBAkmtvl",
+        "versionId": "KgypwTqX"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/KgypwTqX/balm-neoforge-1.21.1-21.0.65.jar"
+      ]
+    },
+    {
+      "path": "mods/bellsandwhistles-0.4.7-1.21.1.jar",
+      "size": 193619,
+      "hashes": {
+        "sha1": "85944080f8bd47dad64a8193a70662cd9ddbb200"
+      },
+      "modrinth": {
+        "projectId": "gJ5afkVv",
+        "versionId": "w0mifib8"
+      },
+      "curseforge": {
+        "projectId": 905040,
+        "fileId": 6299879
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6299/879/bellsandwhistles-0.4.7-1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/6299/879/bellsandwhistles-0.4.7-1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/better-advanced-tooltips-2101.1.0-build.5.jar",
+      "size": 37653,
+      "hashes": {
+        "sha1": "5b73537b908764f2d3fd593a0f56a8b1b034bc50"
+      },
+      "curseforge": {
+        "projectId": 1637623,
+        "fileId": 8576077
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8576/077/better-advanced-tooltips-2101.1.0-build.5.jar",
+        "https://edge.forgecdn.net/files/8576/77/better-advanced-tooltips-2101.1.0-build.5.jar",
+        "https://mediafiles.forgecdn.net/files/8576/077/better-advanced-tooltips-2101.1.0-build.5.jar"
+      ]
+    },
+    {
+      "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "size": 328813,
+      "hashes": {
+        "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40"
+      },
+      "modrinth": {
+        "projectId": "uy4Cnpcm",
+        "versionId": "1sdJl7J1"
+      },
+      "curseforge": {
+        "projectId": 228525,
+        "fileId": 7606240
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar",
+        "https://mediafiles.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar"
+      ]
+    },
+    {
+      "path": "mods/botanypots-neoforge-1.21.1-21.1.44.jar",
+      "size": 1068816,
+      "hashes": {
+        "sha1": "fcb58dfa5f52819c85da40025fa50d0ddccbbb47"
+      },
+      "modrinth": {
+        "projectId": "U6BUTZ7K",
+        "versionId": "RjHfHgSn"
+      },
+      "curseforge": {
+        "projectId": 353928,
+        "fileId": 8243851
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8243/851/botanypots-neoforge-1.21.1-21.1.44.jar",
+        "https://mediafiles.forgecdn.net/files/8243/851/botanypots-neoforge-1.21.1-21.1.44.jar"
+      ]
+    },
+    {
+      "path": "mods/botanytrees-neoforge-1.21.1-21.1.7.jar",
+      "size": 341853,
+      "hashes": {
+        "sha1": "9ed861d8a2405cfa75a9ef677f9d99eb5deed73f"
+      },
+      "modrinth": {
+        "projectId": "mvs7RoIW",
+        "versionId": "aKBCDOy9"
+      },
+      "curseforge": {
+        "projectId": 411357,
+        "fileId": 8188485
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8188/485/botanytrees-neoforge-1.21.1-21.1.7.jar",
+        "https://mediafiles.forgecdn.net/files/8188/485/botanytrees-neoforge-1.21.1-21.1.7.jar"
+      ]
+    },
+    {
+      "path": "mods/caelus-neoforge-7.0.1+1.21.1.jar",
+      "size": 50235,
+      "hashes": {
+        "sha1": "e4c2e1af4e3082d68f7df75f7c8ce30116d71515"
+      },
+      "modrinth": {
+        "projectId": "40FYwb4z",
+        "versionId": "KsfI4QsR"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-7.0.1%2B1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "size": 15020578,
+      "hashes": {
+        "sha1": "6f5395f58139802edfde7cb9170279f92f291971"
+      },
+      "modrinth": {
+        "projectId": "BAscRYKm",
+        "versionId": "eqVowbGc"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar"
+      ]
+    },
+    {
+      "path": "mods/chisel-neoforge-2.0.1+mc1.21.1.jar",
+      "size": 8268524,
+      "hashes": {
+        "sha1": "def703bf88cb3bb2960260418e8b36fe47a53dfd"
+      },
+      "curseforge": {
+        "projectId": 551763,
+        "fileId": 8288925
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8288/925/chisel-neoforge-2.0.1%2bmc1.21.1.jar",
+        "https://edge.forgecdn.net/files/8288/925/chisel-neoforge-2.0.1+mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8288/925/chisel-neoforge-2.0.1+mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "size": 1163890,
+      "hashes": {
+        "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
+      },
+      "curseforge": {
+        "projectId": 348521,
+        "fileId": 5729127
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/cmparallelpipes-neoforge-2.0.2.jar",
+      "size": 28606,
+      "hashes": {
+        "sha1": "8d6c6653ef9a3b373132fb4e42a7b007111c2998"
+      },
+      "modrinth": {
+        "projectId": "5jfUeix5",
+        "versionId": "aYrPugrv"
+      },
+      "curseforge": {
+        "projectId": 1283321,
+        "fileId": 7377910
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7377/910/cmparallelpipes-neoforge-2.0.2.jar",
+        "https://mediafiles.forgecdn.net/files/7377/910/cmparallelpipes-neoforge-2.0.2.jar"
+      ]
+    },
+    {
+      "path": "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "size": 398004,
+      "hashes": {
+        "sha1": "33f3f4976755d0b315d3853f2e2aad38e11825c2"
+      },
+      "curseforge": {
+        "projectId": 1254143,
+        "fileId": 8206645
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8206/645/colorwheel-neoforge-1.2.9%2bmc1.21.1.jar",
+        "https://edge.forgecdn.net/files/8206/645/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8206/645/colorwheel-neoforge-1.2.9+mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
+      "size": 1266042,
+      "hashes": {
+        "sha1": "ddc2b4d7b2d5cc48283c251d39aa03897318be7f"
+      },
+      "curseforge": {
+        "projectId": 231484,
+        "fileId": 8404453
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8404/453/cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
+        "https://mediafiles.forgecdn.net/files/8404/453/cookingforblockheads-neoforge-1.21.1-21.1.24.jar"
+      ]
+    },
+    {
+      "path": "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar",
+      "size": 1799381,
+      "hashes": {
+        "sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7"
+      },
+      "modrinth": {
+        "projectId": "UT2M39wf",
+        "versionId": "bPYeUWZx"
+      },
+      "curseforge": {
+        "projectId": 968398,
+        "fileId": 8822348
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8822/348/copycats-3.0.9%2bmc.1.21.1-neoforge.jar",
+        "https://edge.forgecdn.net/files/8822/348/copycats-3.0.9+mc.1.21.1-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/8822/348/copycats-3.0.9+mc.1.21.1-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "size": 19123767,
+      "hashes": {
+        "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
+      },
+      "modrinth": {
+        "projectId": "LNytGWDc",
+        "versionId": "UjX6dr61"
+      },
+      "curseforge": {
+        "projectId": 328085,
+        "fileId": 7963363
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
+      ]
+    },
+    {
+      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "size": 33123131,
+      "hashes": {
+        "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b"
+      },
+      "modrinth": {
+        "projectId": "oWaK0Q19",
+        "versionId": "44pLdPGg"
+      },
+      "curseforge": {
+        "projectId": 676721,
+        "fileId": 8763471
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8763/471/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+        "https://mediafiles.forgecdn.net/files/8763/471/create-aeronautics-bundled-1.21.1-1.3.2.jar"
+      ]
+    },
+    {
+      "path": "mods/create-enchantment-industry-2.5.3b.jar",
+      "size": 1606407,
+      "hashes": {
+        "sha1": "f39af237b8bff853a89e8784518bdc36ba54a32e"
+      },
+      "modrinth": {
+        "projectId": "JWGBpFUP",
+        "versionId": "ASyjJTVL"
+      },
+      "curseforge": {
+        "projectId": 688768,
+        "fileId": 8762719
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8762/719/create-enchantment-industry-2.5.3b.jar",
+        "https://mediafiles.forgecdn.net/files/8762/719/create-enchantment-industry-2.5.3b.jar"
+      ]
+    },
+    {
+      "path": "mods/create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+      "size": 1644485,
+      "hashes": {
+        "sha1": "849df57070ffa75c2446b9c460d03f6b49fa089e"
+      },
+      "modrinth": {
+        "projectId": "FTeXqI9v",
+        "versionId": "IwtuwMZy"
+      },
+      "curseforge": {
+        "projectId": 905861,
+        "fileId": 8215216
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8215/216/create-new-age-1.2.0%2bneoforge-mc1.21.1.jar",
+        "https://edge.forgecdn.net/files/8215/216/create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8215/216/create-new-age-1.2.0+neoforge-mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.1.jar",
+      "size": 154102,
+      "hashes": {
+        "sha1": "4b25f74489787d7a8a89966071c29018ed893d86"
+      },
+      "curseforge": {
+        "projectId": 1530014,
+        "fileId": 8420412
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8420/412/create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.1.jar",
+        "https://mediafiles.forgecdn.net/files/8420/412/create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.1.jar"
+      ]
+    },
+    {
+      "path": "mods/create_aeronautics_automated_logistics-0.6.2.jar",
+      "size": 1567622,
+      "hashes": {
+        "sha1": "1954f5c4f72620942851241bd18217197ed59b46"
+      },
+      "modrinth": {
+        "projectId": "73ZXeRfx",
+        "versionId": "EgPi4wq9"
+      },
+      "curseforge": {
+        "projectId": 1537420,
+        "fileId": 8673342
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8673/342/create_aeronautics_automated_logistics-0.6.2.jar",
+        "https://mediafiles.forgecdn.net/files/8673/342/create_aeronautics_automated_logistics-0.6.2.jar"
+      ]
+    },
+    {
+      "path": "mods/create_connected-1.3.3-mc1.21.1.jar",
+      "size": 6786784,
+      "hashes": {
+        "sha1": "72c3653116562dbab38dac123f8effc73c747cc9"
+      },
+      "curseforge": {
+        "projectId": 947914,
+        "fileId": 8777573
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8777/573/create_connected-1.3.3-mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8777/573/create_connected-1.3.3-mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/create_hypertube-0.6.0-NEOFORGE.jar",
+      "size": 546142,
+      "hashes": {
+        "sha1": "8004b4b3959364609906ea4d7bf409add879a222"
+      },
+      "modrinth": {
+        "projectId": "ATDdrG1y",
+        "versionId": "qYjOyvgW"
+      },
+      "curseforge": {
+        "projectId": 1281336,
+        "fileId": 8541877
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8541/877/create_hypertube-0.6.0-NEOFORGE.jar",
+        "https://mediafiles.forgecdn.net/files/8541/877/create_hypertube-0.6.0-NEOFORGE.jar"
+      ]
+    },
+    {
+      "path": "mods/create_jetpack-forge-5.2.1.jar",
+      "size": 495109,
+      "hashes": {
+        "sha1": "cbd949c62723d805c2ab019def6e6718c50037b8"
+      },
+      "modrinth": {
+        "projectId": "UbFnAd4l",
+        "versionId": "sCwiqLqq"
+      },
+      "curseforge": {
+        "projectId": 655608,
+        "fileId": 8545274
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8545/274/create_jetpack-forge-5.2.1.jar",
+        "https://mediafiles.forgecdn.net/files/8545/274/create_jetpack-forge-5.2.1.jar"
+      ]
+    },
+    {
+      "path": "mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "size": 235239,
+      "hashes": {
+        "sha1": "ed0ff71df9bfe3b66b97c51a2834031084300a65"
+      },
+      "modrinth": {
+        "projectId": "N9QToVpw",
+        "versionId": "AEMRNsNS"
+      },
+      "curseforge": {
+        "projectId": 978125,
+        "fileId": 8038954
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8038/954/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8038/954/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/createbetterfps-1.21.1-1.1.4.jar",
+      "size": 26547,
+      "hashes": {
+        "sha1": "c594e20659b73a67bd0b0c2de45b29b78a2eb160"
+      },
+      "modrinth": {
+        "projectId": "lMYIHZNH",
+        "versionId": "QWqEdWHy"
+      },
+      "curseforge": {
+        "projectId": 1217518,
+        "fileId": 7951368
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7951/368/createbetterfps-1.21.1-1.1.4.jar",
+        "https://mediafiles.forgecdn.net/files/7951/368/createbetterfps-1.21.1-1.1.4.jar"
+      ]
+    },
+    {
+      "path": "mods/createdieselgenerators-1.21.1-1.3.15.jar",
+      "size": 3154746,
+      "hashes": {
+        "sha1": "7f751dabfa83c141c1d13025cd16f06553ba459b"
+      },
+      "modrinth": {
+        "projectId": "ZM3tt6p1",
+        "versionId": "UoPH8lO1"
+      },
+      "curseforge": {
+        "projectId": 869316,
+        "fileId": 8542167
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8542/167/createdieselgenerators-1.21.1-1.3.15.jar",
+        "https://mediafiles.forgecdn.net/files/8542/167/createdieselgenerators-1.21.1-1.3.15.jar"
+      ]
+    },
+    {
+      "path": "mods/createtransmission-1.2.2+neoforge-create6-1.21.1.jar",
+      "size": 250901,
+      "hashes": {
+        "sha1": "60e020b39a243e4eca5d15e3c9299fcdf8ed20d2"
+      },
+      "modrinth": {
+        "projectId": "QFCkBuIh",
+        "versionId": "dOsq88jX"
+      },
+      "curseforge": {
+        "projectId": 1354280,
+        "fileId": 8646664
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8646/664/createtransmission-1.2.2%2bneoforge-create6-1.21.1.jar",
+        "https://edge.forgecdn.net/files/8646/664/createtransmission-1.2.2+neoforge-create6-1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8646/664/createtransmission-1.2.2+neoforge-create6-1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/createnuclear-1.3.2-beta.3-neoforge.jar",
+      "size": 1842160,
+      "hashes": {
+        "sha1": "c4349006fd07e614b0de3c5982d7f0d0a818c98c"
+      },
+      "modrinth": {
+        "projectId": "z611fdf7",
+        "versionId": "waO2BSHO"
+      },
+      "curseforge": {
+        "projectId": 989797,
+        "fileId": 7329038
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7329/038/createnuclear-1.3.2-beta.3-neoforge.jar",
+        "https://edge.forgecdn.net/files/7329/38/createnuclear-1.3.2-beta.3-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7329/038/createnuclear-1.3.2-beta.3-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
+      "size": 133851,
+      "hashes": {
+        "sha1": "45b7240ad5cd561511ae3f80eea4cbfc110dae70"
+      },
+      "curseforge": {
+        "projectId": 1208896,
+        "fileId": 7344729
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7344/729/cryonicconfig-neoforge-1.0.0%2bmc1.21.11.jar",
+        "https://edge.forgecdn.net/files/7344/729/cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
+        "https://mediafiles.forgecdn.net/files/7344/729/cryonicconfig-neoforge-1.0.0+mc1.21.11.jar"
+      ]
+    },
+    {
+      "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "size": 410690,
+      "hashes": {
+        "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+      },
+      "modrinth": {
+        "projectId": "vvuO3ImH",
+        "versionId": "yohfFbgD"
+      },
+      "curseforge": {
+        "projectId": 309927,
+        "fileId": 6529130
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
+        "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1+1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/6529/130/curios-neoforge-9.5.1+1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/displaydelight-1.7.0.jar",
+      "size": 1144367,
+      "hashes": {
+        "sha1": "0d2040a348a1d42907561babff9ac983c466b825"
+      },
+      "curseforge": {
+        "projectId": 1144296,
+        "fileId": 8242893
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8242/893/displaydelight-1.7.0.jar",
+        "https://mediafiles.forgecdn.net/files/8242/893/displaydelight-1.7.0.jar"
+      ]
+    },
+    {
+      "path": "mods/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar",
+      "size": 168632,
+      "hashes": {
+        "sha1": "9d27991a7f5a551265692abf8ed40ece10ea1958"
+      },
+      "curseforge": {
+        "projectId": 511770,
+        "fileId": 8552907
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8552/907/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8552/907/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/elytraslot-neoforge-9.0.2+1.21.1.jar",
+      "size": 65086,
+      "hashes": {
+        "sha1": "8ac6cf959fe66399aa7e86b6e6f933e07d155b7e"
+      },
+      "curseforge": {
+        "projectId": 317716,
+        "fileId": 5778461
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/5778/461/elytraslot-neoforge-9.0.2%2b1.21.1.jar",
+        "https://edge.forgecdn.net/files/5778/461/elytraslot-neoforge-9.0.2+1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/5778/461/elytraslot-neoforge-9.0.2+1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/entity_model_features-3.3.5-1.21-neoforge.jar",
+      "size": 630286,
+      "hashes": {
+        "sha1": "e78060b9a01bf41b5628bd45ce5ac741f68f092c"
+      },
+      "curseforge": {
+        "projectId": 844662,
+        "fileId": 8799082
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8799/082/entity_model_features-3.3.5-1.21-neoforge.jar",
+        "https://edge.forgecdn.net/files/8799/82/entity_model_features-3.3.5-1.21-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/8799/082/entity_model_features-3.3.5-1.21-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.1-1.21-neoforge.jar",
+      "size": 783217,
+      "hashes": {
+        "sha1": "908d09263709193b918fdc9ca0d79c9d90c4a531"
+      },
+      "modrinth": {
+        "projectId": "BVzZfTc1",
+        "versionId": "XEJeKpgJ"
+      },
+      "curseforge": {
+        "projectId": 568563,
+        "fileId": 8789239
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/XEJeKpgJ/entity_texture_features-7.2.1-1.21-neoforge.jar",
+        "https://edge.forgecdn.net/files/8789/239/entity_texture_features-7.2.1-1.21-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/8789/239/entity_texture_features-7.2.1-1.21-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/escalated-1.3.2-mc.1.21.1.jar",
+      "size": 512624,
+      "hashes": {
+        "sha1": "34854b74bd9c627b873cb21bb5ec15fbad038db6"
+      },
+      "modrinth": {
+        "projectId": "LyOBYG8Q",
+        "versionId": "vJ49zRJl"
+      },
+      "curseforge": {
+        "projectId": 1260145,
+        "fileId": 8679269
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8679/269/escalated-1.3.2-mc.1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8679/269/escalated-1.3.2-mc.1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/factory_blocks-neoforge-1.4.0+mc1.21.1.jar",
+      "size": 809234,
+      "hashes": {
+        "sha1": "51fa93c3b0978f4f7e3b801bea6822ec72522e50"
+      },
+      "curseforge": {
+        "projectId": 640001,
+        "fileId": 6266334
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6266/334/factory_blocks-neoforge-1.4.0%2bmc1.21.1.jar",
+        "https://edge.forgecdn.net/files/6266/334/factory_blocks-neoforge-1.4.0+mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/6266/334/factory_blocks-neoforge-1.4.0+mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/fallingleaves-1.21.1-2.5.1.jar",
+      "size": 153343,
+      "hashes": {
+        "sha1": "93f479691d5a88775d90e9fa19e814b7301a363b"
+      },
+      "curseforge": {
+        "projectId": 463155,
+        "fileId": 6240977
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6240/977/fallingleaves-1.21.1-2.5.1.jar",
+        "https://mediafiles.forgecdn.net/files/6240/977/fallingleaves-1.21.1-2.5.1.jar"
+      ]
+    },
+    {
+      "path": "mods/fancymenu_neoforge_3.9.12_MC_1.21.1.jar",
+      "size": 25912346,
+      "hashes": {
+        "sha1": "388d2380529fc175bfe1337e1a5b46b694284ccb"
+      },
+      "modrinth": {
+        "projectId": "Wq5SjeWM",
+        "versionId": "Jjr0fpDH"
+      },
+      "curseforge": {
+        "projectId": 367706,
+        "fileId": 8752297
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8752/297/fancymenu_neoforge_3.9.12_MC_1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8752/297/fancymenu_neoforge_3.9.12_MC_1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "size": 121559,
+      "hashes": {
+        "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
+      },
+      "modrinth": {
+        "projectId": "uXXizFIs",
+        "versionId": "x7kQWVju"
+      },
+      "curseforge": {
+        "projectId": 429235,
+        "fileId": 7524151
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7524/151/ferritecore-7.0.3-neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7524/151/ferritecore-7.0.3-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/firstperson-neoforge-2.7.2-mc1.21.1.jar",
+      "size": 1612095,
+      "hashes": {
+        "sha1": "8faf96d7c3c12eaec819b4e273e58c048e8de125"
+      },
+      "curseforge": {
+        "projectId": 333287,
+        "fileId": 8294228
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8294/228/firstperson-neoforge-2.7.2-mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8294/228/firstperson-neoforge-2.7.2-mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/framework-neoforge-1.21.1-0.13.11.jar",
+      "size": 387334,
+      "hashes": {
+        "sha1": "e46eb138fbb13a12f37154fb4ec407d64b326475"
+      },
+      "curseforge": {
+        "projectId": 549225,
+        "fileId": 7530361
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7530/361/framework-neoforge-1.21.1-0.13.11.jar",
+        "https://mediafiles.forgecdn.net/files/7530/361/framework-neoforge-1.21.1-0.13.11.jar"
+      ]
+    },
+    {
+      "path": "mods/ftb-chunks-neoforge-2101.1.22.jar",
+      "size": 655807,
+      "hashes": {
+        "sha1": "a53f1bb7965c6954a348d4f321f03d3971ad503f"
+      },
+      "curseforge": {
+        "projectId": 314906,
+        "fileId": 8791113
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8791/113/ftb-chunks-neoforge-2101.1.22.jar",
+        "https://mediafiles.forgecdn.net/files/8791/113/ftb-chunks-neoforge-2101.1.22.jar"
+      ]
+    },
+    {
+      "path": "mods/ftb-library-neoforge-2101.1.35.jar",
+      "size": 1439018,
+      "hashes": {
+        "sha1": "9922fa358983120edeed22194bf02bcf9c859fbb"
+      },
+      "curseforge": {
+        "projectId": 404465,
+        "fileId": 8569579
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8569/579/ftb-library-neoforge-2101.1.35.jar",
+        "https://mediafiles.forgecdn.net/files/8569/579/ftb-library-neoforge-2101.1.35.jar"
+      ]
+    },
+    {
+      "path": "mods/ftb-quests-neoforge-2101.1.34.jar",
+      "size": 1609252,
+      "hashes": {
+        "sha1": "9c6a9adc77601cc8c07a3e058bd8cc42df0afe84"
+      },
+      "curseforge": {
+        "projectId": 289412,
+        "fileId": 8730556
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8730/556/ftb-quests-neoforge-2101.1.34.jar",
+        "https://mediafiles.forgecdn.net/files/8730/556/ftb-quests-neoforge-2101.1.34.jar"
+      ]
+    },
+    {
+      "path": "mods/ftb-team-bases-21.1.18.jar",
+      "size": 366556,
+      "hashes": {
+        "sha1": "783448c32f3debf686bb8ea1db738510f8623518"
+      },
+      "curseforge": {
+        "projectId": 1197857,
+        "fileId": 8729782
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8729/782/ftb-team-bases-21.1.18.jar",
+        "https://mediafiles.forgecdn.net/files/8729/782/ftb-team-bases-21.1.18.jar"
+      ]
+    },
+    {
+      "path": "mods/ftb-teams-neoforge-2101.1.11.jar",
+      "size": 308236,
+      "hashes": {
+        "sha1": "62b65f752d0326edd13244e58d5f2aec035da4e9"
+      },
+      "curseforge": {
+        "projectId": 404468,
+        "fileId": 8724782
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8724/782/ftb-teams-neoforge-2101.1.11.jar",
+        "https://mediafiles.forgecdn.net/files/8724/782/ftb-teams-neoforge-2101.1.11.jar"
+      ]
+    },
+    {
+      "path": "mods/fusion-1.3.15a-neoforge-mc1.21.1.jar",
+      "size": 947072,
+      "hashes": {
+        "sha1": "d29d0d1e0e7a9014fc8e0da69db8f019f458d002"
+      },
+      "curseforge": {
+        "projectId": 854949,
+        "fileId": 8822088
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8822/088/fusion-1.3.15a-neoforge-mc1.21.1.jar",
+        "https://edge.forgecdn.net/files/8822/88/fusion-1.3.15a-neoforge-mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8822/088/fusion-1.3.15a-neoforge-mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "size": 2369895,
+      "hashes": {
+        "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1"
+      },
+      "curseforge": {
+        "projectId": 1005914,
+        "fileId": 7568897
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6%2b1.21%2bneoforge.jar",
+        "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6+1.21+neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7568/897/fzzy_config-0.7.6+1.21+neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "size": 630584,
+      "hashes": {
+        "sha1": "14c64013cadee7d28f3685f94350f9a4d2ec6d86"
+      },
+      "modrinth": {
+        "projectId": "8BmcQJ2H",
+        "versionId": "tPkJmim6"
+      },
+      "curseforge": {
+        "projectId": 388172,
+        "fileId": 8350073
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tPkJmim6/geckolib-neoforge-1.21.1-4.9.2.jar"
+      ]
+    },
+    {
+      "path": "mods/getittogetherdrops-neoforge-1.21.5-1.4.jar",
+      "size": 8825,
+      "hashes": {
+        "sha1": "ead940a50f69313802960c497e252acd3956334f"
+      },
+      "curseforge": {
+        "projectId": 411045,
+        "fileId": 6775278
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6775/278/getittogetherdrops-neoforge-1.21.5-1.4.jar",
+        "https://mediafiles.forgecdn.net/files/6775/278/getittogetherdrops-neoforge-1.21.5-1.4.jar"
+      ]
+    },
+    {
+      "path": "mods/guideme-21.1.17.jar",
+      "size": 9309396,
+      "hashes": {
+        "sha1": "060e374f578db694a0b8f3ad409bd424cae86359"
+      },
+      "modrinth": {
+        "projectId": "Ck4E7v7R",
+        "versionId": "rduAfwb7"
+      },
+      "curseforge": {
+        "projectId": 1173950,
+        "fileId": 8420861
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8420/861/guideme-21.1.17.jar",
+        "https://mediafiles.forgecdn.net/files/8420/861/guideme-21.1.17.jar"
+      ]
+    },
+    {
+      "path": "mods/handcrafted-elytra-server-1.0.3+mc1.21-11.jar",
+      "size": 81915,
+      "hashes": {
+        "sha1": "b7cf41e23afb0481be396ba4027e52b6e10b7aba"
+      },
+      "curseforge": {
+        "projectId": 1438153,
+        "fileId": 7998658
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7998/658/handcrafted-elytra-server-1.0.3+mc1.21-11.jar",
+        "https://mediafiles.forgecdn.net/files/7998/658/handcrafted-elytra-server-1.0.3+mc1.21-11.jar"
+      ]
+    },
+    {
+      "path": "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "size": 7132842,
+      "hashes": {
+        "sha1": "8ecd27f1d66f9b742cfae3c8ffa773765f574b52"
+      },
+      "curseforge": {
+        "projectId": 538214,
+        "fileId": 6330030
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6330/030/handcrafted-neoforge-1.21.1-4.0.3.jar",
+        "https://edge.forgecdn.net/files/6330/30/handcrafted-neoforge-1.21.1-4.0.3.jar",
+        "https://mediafiles.forgecdn.net/files/6330/030/handcrafted-neoforge-1.21.1-4.0.3.jar"
+      ]
+    },
+    {
+      "path": "mods/interiors-1.21.1-neoforge-0.6.1.jar",
+      "size": 486912,
+      "hashes": {
+        "sha1": "a558777ef4510da2f4d32ca3da6ac7384c9a9940"
+      },
+      "modrinth": {
+        "projectId": "r4Knci2k",
+        "versionId": "gBrfZy6S"
+      },
+      "curseforge": {
+        "projectId": 906239,
+        "fileId": 7544005
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7544/005/interiors-1.21.1-neoforge-0.6.1.jar",
+        "https://edge.forgecdn.net/files/7544/5/interiors-1.21.1-neoforge-0.6.1.jar",
+        "https://mediafiles.forgecdn.net/files/7544/005/interiors-1.21.1-neoforge-0.6.1.jar"
+      ]
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "size": 2540723,
+      "hashes": {
+        "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885"
+      },
+      "modrinth": {
+        "projectId": "YL57xq9U",
+        "versionId": "KduFYu4t"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+      "size": 576866,
+      "hashes": {
+        "sha1": "9a40f949ec9794cdef79bdabb61a12a918613194"
+      },
+      "curseforge": {
+        "projectId": 237664,
+        "fileId": 7034259
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7034/259/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+        "https://mediafiles.forgecdn.net/files/7034/259/ironfurnaces-neoforge-1.21.1-4.3.2.jar"
+      ]
+    },
+    {
+      "path": "mods/jamlib-neoforge-1.3.6+1.21.1.jar",
+      "size": 188553,
+      "hashes": {
+        "sha1": "0e422dd29b3f82eaf2a450a0370ace82b8d00f82"
+      },
+      "modrinth": {
+        "projectId": "IYY9Siz8",
+        "versionId": "n6UM6TcS"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IYY9Siz8/versions/n6UM6TcS/jamlib-neoforge-1.3.6%2B1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.53.0.426.jar",
+      "size": 1847607,
+      "hashes": {
+        "sha1": "a14078381e5c2c6c84ce3e957aacf48c8e209f83"
+      },
+      "modrinth": {
+        "projectId": "u6dRKJwZ",
+        "versionId": "WXSjjcqV"
+      },
+      "curseforge": {
+        "projectId": 238222,
+        "fileId": 8829744
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/u6dRKJwZ/versions/WXSjjcqV/jei-1.21.1-neoforge-19.53.0.426.jar",
+        "https://edge.forgecdn.net/files/8829/744/jei-1.21.1-neoforge-19.53.0.426.jar",
+        "https://mediafiles.forgecdn.net/files/8829/744/jei-1.21.1-neoforge-19.53.0.426.jar"
+      ]
+    },
+    {
+      "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "size": 618842,
+      "hashes": {
+        "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa"
+      },
+      "modrinth": {
+        "projectId": "J81TRJWm",
+        "versionId": "stJDU839"
+      },
+      "curseforge": {
+        "projectId": 410295,
+        "fileId": 5453385
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar"
+      ]
+    },
+    {
+      "path": "mods/kotlinforforge-5.12.0-all.jar",
+      "size": 7279276,
+      "hashes": {
+        "sha1": "a2032c921e93a0ccb0db5d742167e3139c2de01b"
+      },
+      "curseforge": {
+        "projectId": 351264,
+        "fileId": 8335665
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8335/665/kotlinforforge-5.12.0-all.jar",
+        "https://mediafiles.forgecdn.net/files/8335/665/kotlinforforge-5.12.0-all.jar"
+      ]
+    },
+    {
+      "path": "mods/kubejs-neoforge-2101.7.2-build.374.jar",
+      "size": 2292654,
+      "hashes": {
+        "sha1": "d675ea2cfdf3286e996dcad5a27deba6a04bc3a2"
+      },
+      "curseforge": {
+        "projectId": 238086,
+        "fileId": 8715199
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8715/199/kubejs-neoforge-2101.7.2-build.374.jar",
+        "https://mediafiles.forgecdn.net/files/8715/199/kubejs-neoforge-2101.7.2-build.374.jar"
+      ]
+    },
+    {
+      "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+      "size": 2023375,
+      "hashes": {
+        "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
+      },
+      "curseforge": {
+        "projectId": 393442,
+        "fileId": 8780227
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8780/227/lambdynamiclights-4.8.11%2b1.21.1.jar",
+        "https://edge.forgecdn.net/files/8780/227/lambdynamiclights-4.8.11+1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8780/227/lambdynamiclights-4.8.11+1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "size": 661387,
+      "hashes": {
+        "sha1": "71ece28129789a2123cf07e79938f488d8675bb2"
+      },
+      "curseforge": {
+        "projectId": 351725,
+        "fileId": 7627896
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7627/896/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7627/896/mcw-bridges-3.1.2-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "size": 1190404,
+      "hashes": {
+        "sha1": "c127904f23db1a641dd9e065ec51c5c177cb4cd7"
+      },
+      "curseforge": {
+        "projectId": 378646,
+        "fileId": 7618651
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7618/651/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7618/651/mcw-doors-1.1.5-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "size": 2080436,
+      "hashes": {
+        "sha1": "3dccc819f14bcc60b3683edd82ca8c5e64964229"
+      },
+      "curseforge": {
+        "projectId": 359540,
+        "fileId": 7255584
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7255/584/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7255/584/mcw-furniture-3.4.1-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-holidays-1.1.2-mc1.21.1neoforge.jar",
+      "size": 1012915,
+      "hashes": {
+        "sha1": "fbe2d2239fdab916120357ca3c45f582ca34f71d"
+      },
+      "curseforge": {
+        "projectId": 930232,
+        "fileId": 7304374
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7304/374/mcw-holidays-1.1.2-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7304/374/mcw-holidays-1.1.2-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "size": 525744,
+      "hashes": {
+        "sha1": "13c1107caf26b2c60d8626b3658b26cc7f634b38"
+      },
+      "curseforge": {
+        "projectId": 502372,
+        "fileId": 7304075
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7304/075/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+        "https://edge.forgecdn.net/files/7304/75/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7304/075/mcw-lights-1.1.5-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "size": 673871,
+      "hashes": {
+        "sha1": "b5580c3fc521ed8bf4db3e407bd590efc317f74d"
+      },
+      "curseforge": {
+        "projectId": 453925,
+        "fileId": 7308338
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7308/338/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7308/338/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "size": 777742,
+      "hashes": {
+        "sha1": "4bb7e1d28eef19f87438881b0f582a15297b95ae"
+      },
+      "curseforge": {
+        "projectId": 629153,
+        "fileId": 7029451
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7029/451/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7029/451/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "size": 529082,
+      "hashes": {
+        "sha1": "1ee43d693c821efc955a74e551f94372af90a140"
+      },
+      "curseforge": {
+        "projectId": 1119394,
+        "fileId": 7317479
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7317/479/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7317/479/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "size": 1261268,
+      "hashes": {
+        "sha1": "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c"
+      },
+      "curseforge": {
+        "projectId": 363569,
+        "fileId": 7317672
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7317/672/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7317/672/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "size": 1784829,
+      "hashes": {
+        "sha1": "05806ff152fab56f7c1b4b215d772ea73611283d"
+      },
+      "curseforge": {
+        "projectId": 352039,
+        "fileId": 6494399
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6494/399/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/6494/399/mcw-roofs-2.3.2-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "size": 572870,
+      "hashes": {
+        "sha1": "1f8b59e31f889f53b6296b42ee09d447e7e56620"
+      },
+      "curseforge": {
+        "projectId": 400933,
+        "fileId": 7256148
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7256/148/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7256/148/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "size": 36096,
+      "hashes": {
+        "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698"
+      },
+      "modrinth": {
+        "projectId": "CVT4pFB2",
+        "versionId": "efcdRVZP"
+      },
+      "curseforge": {
+        "projectId": 938643,
+        "fileId": 5453382
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar"
+      ]
+    },
+    {
+      "path": "mods/modelfix-1.21-1.10.jar",
+      "size": 47035,
+      "hashes": {
+        "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117"
+      },
+      "curseforge": {
+        "projectId": 676136,
+        "fileId": 5591286
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/5591/286/modelfix-1.21-1.10.jar",
+        "https://mediafiles.forgecdn.net/files/5591/286/modelfix-1.21-1.10.jar"
+      ]
+    },
+    {
+      "path": "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "size": 604333,
+      "hashes": {
+        "sha1": "1fe7f8b4176e86507cc8ed5460b6acdd3dac5529"
+      },
+      "modrinth": {
+        "projectId": "nmDcB62a",
+        "versionId": "5HLHxQ2F"
+      },
+      "curseforge": {
+        "projectId": 790626,
+        "fileId": 8774737
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8774/737/modernfix-neoforge-5.27.24%2bmc1.21.1.jar",
+        "https://edge.forgecdn.net/files/8774/737/modernfix-neoforge-5.27.24+mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8774/737/modernfix-neoforge-5.27.24+mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/moonlight-1.21.1-3.6.3-neoforge.jar",
+      "size": 2226437,
+      "hashes": {
+        "sha1": "eaacc3191758081be86e7d0bb82b5f9572fe9360"
+      },
+      "modrinth": {
+        "projectId": "twkfQtEc",
+        "versionId": "uPJlV3eS"
+      },
+      "curseforge": {
+        "projectId": 499980,
+        "fileId": 8821083
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/twkfQtEc/versions/uPJlV3eS/moonlight-1.21.1-3.6.3-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+      "size": 1939625,
+      "hashes": {
+        "sha1": "b509863deaa27890f8db600f612966a07490a6cd"
+      },
+      "curseforge": {
+        "projectId": 433760,
+        "fileId": 8274908
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8274/908/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8274/908/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "size": 117108,
+      "hashes": {
+        "sha1": "2246edd8fc1bbf60422f5099854c1de0b2a439c9"
+      },
+      "curseforge": {
+        "projectId": 841262,
+        "fileId": 7939973
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7939/973/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/7939/973/oceansdelight-neoforge-1.0.4-1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/particle_core-0.3.3+1.21+neoforge.jar",
+      "size": 138375,
+      "hashes": {
+        "sha1": "f859d68818e522fb00056d3ed1603ca4300eb681"
+      },
+      "curseforge": {
+        "projectId": 985426,
+        "fileId": 7581040
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7581/040/particle_core-0.3.3+1.21+neoforge.jar",
+        "https://edge.forgecdn.net/files/7581/40/particle_core-0.3.3%2b1.21%2bneoforge.jar",
+        "https://mediafiles.forgecdn.net/files/7581/040/particle_core-0.3.3+1.21+neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/particular-1.21.1-NeoForge-1.5.7.jar",
+      "size": 315841,
+      "hashes": {
+        "sha1": "d6d33e8233481ad8fc6f8c351f52783ed431a800"
+      },
+      "curseforge": {
+        "projectId": 1219053,
+        "fileId": 8662697
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8662/697/particular-1.21.1-NeoForge-1.5.7.jar",
+        "https://mediafiles.forgecdn.net/files/8662/697/particular-1.21.1-NeoForge-1.5.7.jar"
+      ]
+    },
+    {
+      "path": "mods/ponderjs-neoforge-1.21.1-2.4.0.jar",
+      "size": 1571893,
+      "hashes": {
+        "sha1": "9c35c5c31a613d58fc06e591e455bccfc3de6022"
+      },
+      "modrinth": {
+        "projectId": "5A34Stj8",
+        "versionId": "BqhDf7W8"
+      },
+      "curseforge": {
+        "projectId": 622888,
+        "fileId": 7436813
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5A34Stj8/versions/BqhDf7W8/ponderjs-neoforge-1.21.1-2.4.0.jar"
+      ]
+    },
+    {
+      "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "size": 84812,
+      "hashes": {
+        "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36"
+      },
+      "modrinth": {
+        "projectId": "aaRl8GiW",
+        "versionId": "EE1FHDyD"
+      },
+      "curseforge": {
+        "projectId": 1023259,
+        "fileId": 6961457
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar"
+      ]
+    },
+    {
+      "path": "mods/rechiseled-1.2.5-neoforge-mc1.21.jar",
+      "size": 11498611,
+      "hashes": {
+        "sha1": "ed2973c6952caa3173259314276b5b9d72880494"
+      },
+      "modrinth": {
+        "projectId": "B0g2vT6l",
+        "versionId": "S5FnErRw"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/B0g2vT6l/versions/S5FnErRw/rechiseled-1.2.5-neoforge-mc1.21.jar"
+      ]
+    },
+    {
+      "path": "mods/rechiseled_chipped-2.0-1.21.1.jar",
+      "size": 177517,
+      "hashes": {
+        "sha1": "bed4eb5415d67251ba6b0eca5d56eb0f5963a265"
+      },
+      "curseforge": {
+        "projectId": 1007578,
+        "fileId": 7524185
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7524/185/rechiseled_chipped-2.0-1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/7524/185/rechiseled_chipped-2.0-1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+      "size": 983177,
+      "hashes": {
+        "sha1": "6f7e53f39eb477d7cee8e21af215cd3db698deda"
+      },
+      "curseforge": {
+        "projectId": 888624,
+        "fileId": 8302843
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8302/843/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
+        "https://mediafiles.forgecdn.net/files/8302/843/rechiseledcreate-1.1.1-neoforge-mc1.21.jar"
+      ]
+    },
+    {
+      "path": "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "size": 7133477,
+      "hashes": {
+        "sha1": "6c209e6b755ff26218efd55aedf2dea49183d29b"
+      },
+      "curseforge": {
+        "projectId": 897116,
+        "fileId": 7473565
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7473/565/refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+        "https://mediafiles.forgecdn.net/files/7473/565/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
+      ]
+    },
+    {
+      "path": "mods/relics-1.21.1-0.12.8.jar",
+      "size": 5007593,
+      "hashes": {
+        "sha1": "1fe7d57ebfa56ebd0aeecfed01075f8b55b94ef7"
+      },
+      "curseforge": {
+        "projectId": 445274,
+        "fileId": 8158315
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8158/315/relics-1.21.1-0.12.8.jar",
+        "https://mediafiles.forgecdn.net/files/8158/315/relics-1.21.1-0.12.8.jar"
+      ]
+    },
+    {
+      "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "size": 341009,
+      "hashes": {
+        "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031"
+      },
+      "curseforge": {
+        "projectId": 714059,
+        "fileId": 6467772
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6467/772/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+        "https://mediafiles.forgecdn.net/files/6467/772/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+      ]
+    },
+    {
+      "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "size": 484332,
+      "hashes": {
+        "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df"
+      },
+      "curseforge": {
+        "projectId": 570073,
+        "fileId": 5973188
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/5973/188/resourcefullib-neoforge-1.21-3.0.12.jar",
+        "https://mediafiles.forgecdn.net/files/5973/188/resourcefullib-neoforge-1.21-3.0.12.jar"
+      ]
+    },
+    {
+      "path": "mods/rhino-2101.2.8-build.91.jar",
+      "size": 980936,
+      "hashes": {
+        "sha1": "56eab1d464ed0811c64040c64bd047df5cbc3aad"
+      },
+      "modrinth": {
+        "projectId": "sk9knFPE",
+        "versionId": "SqkDvOLG"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9knFPE/versions/SqkDvOLG/rhino-2101.2.8-build.91.jar"
+      ]
+    },
+    {
+      "path": "mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+      "size": 287634,
+      "hashes": {
+        "sha1": "473b960c0cae751b7752a43df4756010e30988fa"
+      },
+      "curseforge": {
+        "projectId": 452834,
+        "fileId": 7508749
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7508/749/rightclickharvest-neoforge-4.6.1%2b1.21.1.jar",
+        "https://edge.forgecdn.net/files/7508/749/rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/7508/749/rightclickharvest-neoforge-4.6.1+1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-2.0.5.jar",
+      "size": 12986136,
+      "hashes": {
+        "sha1": "05f666e973d32baaaf405acb9bbed6615b909971"
+      },
+      "modrinth": {
+        "projectId": "T9PomCSv",
+        "versionId": "U678xqle"
+      },
+      "curseforge": {
+        "projectId": 1312371,
+        "fileId": 8673825
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8673/825/sable-neoforge-1.21.1-2.0.5.jar",
+        "https://mediafiles.forgecdn.net/files/8673/825/sable-neoforge-1.21.1-2.0.5.jar"
+      ]
+    },
+    {
+      "path": "mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+      "size": 465013,
+      "hashes": {
+        "sha1": "3aaac7712521b477acc73757459b3883c4e0bbda"
+      },
+      "curseforge": {
+        "projectId": 447673,
+        "fileId": 8403576
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8403/576/sodium-extra-neoforge-0.9.3%2bmc1.21.1.jar",
+        "https://edge.forgecdn.net/files/8403/576/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+        "https://mediafiles.forgecdn.net/files/8403/576/sodium-extra-neoforge-0.9.3+mc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "size": 1292934,
+      "hashes": {
+        "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693"
+      },
+      "modrinth": {
+        "projectId": "AANobbMI",
+        "versionId": "uMOpc5uV"
+      },
+      "curseforge": {
+        "projectId": 394468,
+        "fileId": 8756580
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
+      ]
+    },
+    {
+      "path": "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "size": 82627,
+      "hashes": {
+        "sha1": "d574c93098fe1189bf21eccaaff97d7a58798b8a"
+      },
+      "curseforge": {
+        "projectId": 1238567,
+        "fileId": 8398818
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8398/818/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+        "https://mediafiles.forgecdn.net/files/8398/818/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar"
+      ]
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.26.1.2124.jar",
+      "size": 1245805,
+      "hashes": {
+        "sha1": "5bec3105c77928925a21709947bdea13629046bb"
+      },
+      "curseforge": {
+        "projectId": 422301,
+        "fileId": 8818204
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8818/204/sophisticatedbackpacks-1.21.1-3.26.1.2124.jar",
+        "https://mediafiles.forgecdn.net/files/8818/204/sophisticatedbackpacks-1.21.1-3.26.1.2124.jar"
+      ]
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.5.0.2322.jar",
+      "size": 1782185,
+      "hashes": {
+        "sha1": "d8f43b1870189894a7f377502a8e3a185411ccee"
+      },
+      "curseforge": {
+        "projectId": 618298,
+        "fileId": 8815718
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8815/718/sophisticatedcore-1.21.1-1.5.0.2322.jar",
+        "https://mediafiles.forgecdn.net/files/8815/718/sophisticatedcore-1.21.1-1.5.0.2322.jar"
+      ]
+    },
+    {
+      "path": "mods/sophisticatedstorage-1.21.1-1.5.91.2127.jar",
+      "size": 1869204,
+      "hashes": {
+        "sha1": "74d5c0a411edfdd521c800fd8813f53c0f9a6f30"
+      },
+      "curseforge": {
+        "projectId": 619320,
+        "fileId": 8687896
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8687/896/sophisticatedstorage-1.21.1-1.5.91.2127.jar",
+        "https://mediafiles.forgecdn.net/files/8687/896/sophisticatedstorage-1.21.1-1.5.91.2127.jar"
+      ]
+    },
+    {
+      "path": "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
+      "size": 134163,
+      "hashes": {
+        "sha1": "d8f72f22459750496008a7c2a39dc865152d075c"
+      },
+      "curseforge": {
+        "projectId": 1226755,
+        "fileId": 8503147
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8503/147/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
+        "https://mediafiles.forgecdn.net/files/8503/147/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar"
+      ]
+    },
+    {
+      "path": "mods/soundofrain-0.6.1.jar",
+      "size": 7636499,
+      "hashes": {
+        "sha1": "c79be87e9f7c2deb1adae0c52f31013ee79282bd"
+      },
+      "curseforge": {
+        "projectId": 1302230,
+        "fileId": 8560527
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8560/527/soundofrain-0.6.1.jar",
+        "https://mediafiles.forgecdn.net/files/8560/527/soundofrain-0.6.1.jar"
+      ]
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "size": 207514,
+      "hashes": {
+        "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574"
+      },
+      "curseforge": {
+        "projectId": 438332,
+        "fileId": 5546996
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/5546/996/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+        "https://mediafiles.forgecdn.net/files/5546/996/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+      ]
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "size": 560783,
+      "hashes": {
+        "sha1": "e77709df2499085d6576584b883a33285b2996b9"
+      },
+      "curseforge": {
+        "projectId": 454372,
+        "fileId": 8623666
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8623/666/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+        "https://mediafiles.forgecdn.net/files/8623/666/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar"
+      ]
+    },
+    {
+      "path": "mods/supplementaries-1.21.1-3.9.8-neoforge.jar",
+      "size": 13549986,
+      "hashes": {
+        "sha1": "8b9fd12e10550f54eecd6b265fedef585b915024"
+      },
+      "modrinth": {
+        "projectId": "fFEIiSDQ",
+        "versionId": "DOZiryjL"
+      },
+      "curseforge": {
+        "projectId": 412082,
+        "fileId": 8821187
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fFEIiSDQ/versions/DOZiryjL/supplementaries-1.21.1-3.9.8-neoforge.jar"
+      ]
+    },
+    {
+      "path": "mods/suppsquared-neoforge-1.21-1.2.18.jar",
+      "size": 752062,
+      "hashes": {
+        "sha1": "0b6845d2afd22f91275a69ad270a0f0ecbfaebe3"
+      },
+      "curseforge": {
+        "projectId": 838411,
+        "fileId": 8268988
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8268/988/suppsquared-neoforge-1.21-1.2.18.jar",
+        "https://mediafiles.forgecdn.net/files/8268/988/suppsquared-neoforge-1.21-1.2.18.jar"
+      ]
+    },
+    {
+      "path": "mods/tempad-1.21.1-3.0.4-all.jar",
+      "size": 1696464,
+      "hashes": {
+        "sha1": "7a4d6837c6f7a4c9a8f4e7054952df25c148033e"
+      },
+      "curseforge": {
+        "projectId": 514923,
+        "fileId": 6517779
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/6517/779/tempad-1.21.1-3.0.4-all.jar",
+        "https://mediafiles.forgecdn.net/files/6517/779/tempad-1.21.1-3.0.4-all.jar"
+      ]
+    },
+    {
+      "path": "mods/tfmg-1.2.2.jar",
+      "size": 4986234,
+      "hashes": {
+        "sha1": "5cce8ff5b1b985ff3f67ac95d9e76a4998ee01db"
+      },
+      "curseforge": {
+        "projectId": 693815,
+        "fileId": 8205648
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8205/648/tfmg-1.2.2.jar",
+        "https://mediafiles.forgecdn.net/files/8205/648/tfmg-1.2.2.jar"
+      ]
+    },
+    {
+      "path": "mods/trading_floor-3.0.16.jar",
+      "size": 214343,
+      "hashes": {
+        "sha1": "7be6d8b24f3120fa6a2520c32a2e6c8c4254322c"
+      },
+      "modrinth": {
+        "projectId": "WROfLLvn",
+        "versionId": "K3nIvcWT"
+      },
+      "curseforge": {
+        "projectId": 1102591,
+        "fileId": 7625579
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/7625/579/trading_floor-3.0.16.jar",
+        "https://mediafiles.forgecdn.net/files/7625/579/trading_floor-3.0.16.jar"
+      ]
+    },
+    {
+      "path": "mods/trashcans-1.1.0-neoforge-mc1.21.jar",
+      "size": 167687,
+      "hashes": {
+        "sha1": "31ed299e945a827d604c6397c2c535f058823efb"
+      },
+      "curseforge": {
+        "projectId": 394535,
+        "fileId": 8646611
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8646/611/trashcans-1.1.0-neoforge-mc1.21.jar",
+        "https://mediafiles.forgecdn.net/files/8646/611/trashcans-1.1.0-neoforge-mc1.21.jar"
+      ]
+    },
+    {
+      "path": "mods/visuality-forge-3.0.0.jar",
+      "size": 132898,
+      "hashes": {
+        "sha1": "9786f023733a302b582b7349336e1ab47e93823e"
+      },
+      "curseforge": {
+        "projectId": 704256,
+        "fileId": 8559477
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8559/477/visuality-forge-3.0.0.jar",
+        "https://mediafiles.forgecdn.net/files/8559/477/visuality-forge-3.0.0.jar"
+      ]
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.23.jar",
+      "size": 4921425,
+      "hashes": {
+        "sha1": "e089e5e0499b59f870a0bf91d331e33f25feb0da"
+      },
+      "curseforge": {
+        "projectId": 416089,
+        "fileId": 8807853
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/8807/853/voicechat-neoforge-1.21.1-2.6.23.jar",
+        "https://mediafiles.forgecdn.net/files/8807/853/voicechat-neoforge-1.21.1-2.6.23.jar"
+      ]
+    },
+    {
+      "path": "config/artifacts/client.toml",
+      "size": 989,
+      "hashes": {
+        "sha1": "221082130d47f18546a35dfd4927cb5268c80238"
+      }
+    },
+    {
+      "path": "config/artifacts/items.toml",
+      "size": 19791,
+      "hashes": {
+        "sha1": "4acf85d237bb74509dd3f1739206427a3ef42d1f"
+      }
+    },
+    {
+      "path": "config/artifacts/general.toml",
+      "size": 2268,
+      "hashes": {
+        "sha1": "b7e76c54e3ea9a9d504185e1f1951affb2159acf"
+      }
+    },
+    {
+      "path": "config/crash_assistant/config.toml",
+      "size": 23819,
+      "hashes": {
+        "sha1": "4fe3934a9eb1aea4ba93b27869b1ea3560106b4a"
+      }
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "size": 51,
+      "hashes": {
+        "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+      }
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "size": 99,
+      "hashes": {
+        "sha1": "ac89850ef71e794f922e5f2454c12268fd8dd339"
+      }
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "size": 42,
+      "hashes": {
+        "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+      }
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "size": 23,
+      "hashes": {
+        "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+      }
+    },
+    {
+      "path": "config/fzzy_config/keybinds.toml",
+      "size": 6403,
+      "hashes": {
+        "sha1": "f808afa706d9a4934612b20e1efd513416a0e8f1"
+      }
+    },
+    {
+      "path": "config/jamlib/known_suspicious_jars.txt",
+      "size": 0,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      }
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "size": 149,
+      "hashes": {
+        "sha1": "a503776a467ca75d97916f99bf665dbf64a521a9"
+      }
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "size": 243,
+      "hashes": {
+        "sha1": "ef2152a130cc5ff42903c76e69c3e4279d94b9e7"
+      }
+    },
+    {
+      "path": "config/jade/jade.json",
+      "size": 1089,
+      "hashes": {
+        "sha1": "8ea73ab5be986b34ee05bf2dcef295f59dcde376"
+      }
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "size": 3122,
+      "hashes": {
+        "sha1": "0b0337ccde5a45f62c34faebc6eb32d3138ec8de"
+      }
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "size": 3623,
+      "hashes": {
+        "sha1": "6df3e16fb09825608323ce7f1e7b9085bdb69c25"
+      }
+    },
+    {
+      "path": "config/jei/blacklist.json",
+      "size": 19,
+      "hashes": {
+        "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39"
+      }
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "size": 12613,
+      "hashes": {
+        "sha1": "c93200429f4db7b8392a7d6a3680c95d0c545b34"
+      }
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "size": 1353,
+      "hashes": {
+        "sha1": "3acac72b07b43c2d60220fb454a50fca76cebe2c"
+      }
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "size": 907,
+      "hashes": {
+        "sha1": "65f68f46aee96c7647df872cb03dede121ccdb30"
+      }
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "size": 477,
+      "hashes": {
+        "sha1": "1fce6f1486a1514d04bfd84632449ca35ccde225"
+      }
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "size": 2627,
+      "hashes": {
+        "sha1": "7e4ebf78254ad9e9b6005c7611bac94414817f2a"
+      }
+    },
+    {
+      "path": "config/mysticalcustomization/configure-augments.json",
+      "size": 2,
+      "hashes": {
+        "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+      }
+    },
+    {
+      "path": "config/mysticalcustomization/configure-crops.json",
+      "size": 2,
+      "hashes": {
+        "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+      }
+    },
+    {
+      "path": "config/mysticalcustomization/configure-mobsoultypes.json",
+      "size": 2,
+      "hashes": {
+        "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+      }
+    },
+    {
+      "path": "config/mysticalcustomization/configure-tiers.json",
+      "size": 2,
+      "hashes": {
+        "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+      }
+    },
+    {
+      "path": "config/mysticalcustomization/configure-types.json",
+      "size": 2,
+      "hashes": {
+        "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+      }
+    },
+    {
+      "path": "config/visuality/config.toml",
+      "size": 368,
+      "hashes": {
+        "sha1": "7d1f233afbc29cd586bc9e6f8e886987c919dcb8"
+      }
+    },
+    {
+      "path": "config/voicechat/category-volumes.properties",
+      "size": 44,
+      "hashes": {
+        "sha1": "8416bbe0743249676e7ebadf8905f06bc3f7d6ac"
+      }
+    },
+    {
+      "path": "config/voicechat/player-volumes.properties",
+      "size": 42,
+      "hashes": {
+        "sha1": "7dfbbc24e0f07706c5f2f837c6acb2510e5140ae"
+      }
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "size": 1168,
+      "hashes": {
+        "sha1": "51ed6d74ce390b2219a85fb3cfdad19c85039d79"
+      }
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "size": 4958,
+      "hashes": {
+        "sha1": "986dc0020eda551af3b4a9a5b0ae7b2baed2383f"
+      }
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "size": 3013,
+      "hashes": {
+        "sha1": "21f1c20b317ce13591f220bda2cc56a9288844f2"
+      }
+    },
+    {
+      "path": "kubejs/client_scripts/main.js",
+      "size": 116,
+      "hashes": {
+        "sha1": "e6f23e21b25a366f2216fbf7da00ed7d34542f20"
+      }
+    },
+    {
+      "path": "kubejs/config/client.json",
+      "size": 184,
+      "hashes": {
+        "sha1": "543ce77f954453d39da0ef6adad3f5e427fd4d8a"
+      }
+    },
+    {
+      "path": "kubejs/config/common.json",
+      "size": 446,
+      "hashes": {
+        "sha1": "72bc0862d970e44dd5075bef3e74110f69d65a7d"
+      }
+    },
+    {
+      "path": "kubejs/config/web_server.json",
+      "size": 120,
+      "hashes": {
+        "sha1": "f002fb6ee316d64e9ad0cca511db1c80ae868c50"
+      }
+    },
+    {
+      "path": "kubejs/server_scripts/main.js",
+      "size": 116,
+      "hashes": {
+        "sha1": "6249ded51466cfc7b94ae9796f8c2caec5dac539"
+      }
+    },
+    {
+      "path": "kubejs/startup_scripts/main.js",
+      "size": 117,
+      "hashes": {
+        "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61"
+      }
+    },
+    {
+      "path": "config/crash_assistant/crash_assistant_localization_overrides/README.md",
+      "size": 2650,
+      "hashes": {
+        "sha1": "fda2be339b85a2f66c558f8c842b3423c13f03a5"
+      }
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "size": 9349,
+      "hashes": {
+        "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38"
+      }
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "size": 9347,
+      "hashes": {
+        "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
+      }
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "size": 9329,
+      "hashes": {
+        "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+      }
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "size": 9359,
+      "hashes": {
+        "sha1": "9583fa877b286337557aae3429f91d66682091b7"
+      }
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "size": 9331,
+      "hashes": {
+        "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
+      }
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "size": 9361,
+      "hashes": {
+        "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
+      }
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "size": 9345,
+      "hashes": {
+        "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620"
+      }
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "size": 9343,
+      "hashes": {
+        "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
+      }
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "size": 9347,
+      "hashes": {
+        "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+      }
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "size": 369,
+      "hashes": {
+        "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5"
+      }
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "size": 426,
+      "hashes": {
+        "sha1": "42badc338e767559db38a67bd3e8020a92000e56"
+      }
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "size": 313,
+      "hashes": {
+        "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429"
+      }
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "size": 322,
+      "hashes": {
+        "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34"
+      }
+    },
+    {
+      "path": "config/visuality/particle_emitters/block_ambient.json",
+      "size": 1081,
+      "hashes": {
+        "sha1": "11396a47a5409a16cfc9a42f232778c6229689b3"
+      }
+    },
+    {
+      "path": "config/visuality/particle_emitters/block_step.json",
+      "size": 219,
+      "hashes": {
+        "sha1": "bd4788dd1998fac53045829328c1d3fa605a61e0"
+      }
+    },
+    {
+      "path": "config/visuality/particle_emitters/entity_armor.json",
+      "size": 737,
+      "hashes": {
+        "sha1": "e9a563ff0c7ee2225b0765eac43174c2bc158e22"
+      }
+    },
+    {
+      "path": "config/visuality/particle_emitters/entity_hit.json",
+      "size": 683,
+      "hashes": {
+        "sha1": "5762a004803d76226e223a47e72779966b6cda23"
+      }
+    },
+    {
+      "path": "config/crash_assistant/scripts/startup/example.jexl",
+      "size": 4408,
+      "hashes": {
+        "sha1": "ef0a9386e87bc61457902ec5b2953a6ab4254d6e"
+      }
+    },
+    {
+      "path": "config/crash_assistant/scripts/log_analysis/example.jexl",
+      "size": 3495,
+      "hashes": {
+        "sha1": "e492d6b210af660f57e4ace58fb84c18230d1c9e"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/item_shelf_acacia.json",
+      "size": 645,
+      "hashes": {
+        "sha1": "3c650cf76035b9dfb838b275325f6c147fe8a0a3"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/item_shelf_bamboo.json",
+      "size": 645,
+      "hashes": {
+        "sha1": "2c1eb745990bfe2d41616a193b5db3ba1bcfa243"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/item_shelf_birch.json",
+      "size": 643,
+      "hashes": {
+        "sha1": "01d88eb68bb49e384928d71a93d6404559187858"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/item_shelf_cherry.json",
+      "size": 645,
+      "hashes": {
+        "sha1": "bc0da8b85750c2d0c5464ff2c7b17ea92759e1a2"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/item_shelf_crimson.json",
+      "size": 647,
+      "hashes": {
+        "sha1": "eb0c753d4171a3edf63bcd6e1e11cbfd32bc6998"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/item_shelf_jungle.json",
+      "size": 645,
+      "hashes": {
+        "sha1": "474f6e82af01cee79513cdbe4a19f01916cbb884"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/item_shelf_mangrove.json",
+      "size": 649,
+      "hashes": {
+        "sha1": "831a37f18c13579b054fb1a5098871a64c1f2dd2"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/item_shelf_spruce.json",
+      "size": 645,
+      "hashes": {
+        "sha1": "1cea3298077178b039faec43417096e589ebe189"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/item_shelf_warped.json",
+      "size": 645,
+      "hashes": {
+        "sha1": "956f8d1e3d49feb222fc70a03ca5a60a3f659b2f"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/item_shelf_acacia.json",
+      "size": 403,
+      "hashes": {
+        "sha1": "aaec75af6f2098a5f8073f98f55b27bcbb142058"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/item_shelf_bamboo.json",
+      "size": 403,
+      "hashes": {
+        "sha1": "d0853f286cf4d9d0954c01332284858ede19ebe2"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/item_shelf_birch.json",
+      "size": 399,
+      "hashes": {
+        "sha1": "ca09fe6183ba6a1be91049c55272a9c5324d238b"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/item_shelf_cherry.json",
+      "size": 403,
+      "hashes": {
+        "sha1": "bed1822cb13441ee852e54c0ce73686b72dc08d3"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/item_shelf_crimson.json",
+      "size": 407,
+      "hashes": {
+        "sha1": "a8ea414f7b96281ba4c575e7a9c918571d819445"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/item_shelf_dark_oak.json",
+      "size": 411,
+      "hashes": {
+        "sha1": "15330b19978ef02e0de767983aef967dfbb88ef4"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/item_shelf_jungle.json",
+      "size": 403,
+      "hashes": {
+        "sha1": "1e6e7f248a4c011b3fd4d0b4937b17bb27810518"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/item_shelf_mangrove.json",
+      "size": 411,
+      "hashes": {
+        "sha1": "48cc6132bf8bb561ba24bd3c86a7df3b240afc95"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/item_shelf_spruce.json",
+      "size": 403,
+      "hashes": {
+        "sha1": "91935b5695f7f7f9531ce7c24ccd9a92fc82e126"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/item_shelf_warped.json",
+      "size": 403,
+      "hashes": {
+        "sha1": "8f0bcefd56272c12a06e3581ba05ea4a454f5a2a"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/cannon_boat_acacia.json",
+      "size": 861,
+      "hashes": {
+        "sha1": "18e6bd207440f4d861d13905f9aebeeafd8dd9ba"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/cannon_boat_birch.json",
+      "size": 858,
+      "hashes": {
+        "sha1": "cf1436aba03ab903ae8b4f2c3677d5d3324737b7"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/cannon_boat_cherry.json",
+      "size": 861,
+      "hashes": {
+        "sha1": "504ca0b652cf50be5816c407573f07bf305385c9"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/cannon_boat_jungle.json",
+      "size": 861,
+      "hashes": {
+        "sha1": "0a9c3017d8cd903c6d309cbf6d8f70d109b7006c"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/cannon_boat_mangrove.json",
+      "size": 867,
+      "hashes": {
+        "sha1": "ebf0859f3ea76ccdc3ecfdc64879ad4c52f9e649"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/cannon_boat_spruce.json",
+      "size": 861,
+      "hashes": {
+        "sha1": "617d13e672d215531a2f0e025b7bb55d00d71ce7"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/cannon_raft_bamboo.json",
+      "size": 861,
+      "hashes": {
+        "sha1": "159fbd656f70d6fd845b1a6e564749035d7f5e34"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_acacia.json",
+      "size": 619,
+      "hashes": {
+        "sha1": "ace46d950112ff869583a25d97cc8c651911c43d"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_bamboo.json",
+      "size": 619,
+      "hashes": {
+        "sha1": "95cfc5b0960fd74f86d48c0f34c26670722ee246"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_birch.json",
+      "size": 617,
+      "hashes": {
+        "sha1": "ff05b2805a28854cfe20e7ce6206883800c5ede1"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_cherry.json",
+      "size": 619,
+      "hashes": {
+        "sha1": "ea143505562c831d9773a183f89a431279ed0c7e"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_jungle.json",
+      "size": 619,
+      "hashes": {
+        "sha1": "e3e1a8435af49a8a7536b49ad1b14ceff69632b6"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_crimson.json",
+      "size": 621,
+      "hashes": {
+        "sha1": "c70cc301830925439ad6ed6ca29ce35781ba4466"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_mangrove.json",
+      "size": 623,
+      "hashes": {
+        "sha1": "10de5faeba2d3bd7c84ac9bfb10e838294a64bc8"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_powdery.json",
+      "size": 645,
+      "hashes": {
+        "sha1": "665e09fb5ec4ec307d91d8ee2668b8752a9bc947"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_spruce.json",
+      "size": 619,
+      "hashes": {
+        "sha1": "a3392f3a03774c17fc8975bf08bdabc17a00fbd2"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_warped.json",
+      "size": 619,
+      "hashes": {
+        "sha1": "49a85a36bc63ef8f9291548fd741b9ec93467452"
+      }
+    },
+    {
+      "path": ".mixin.out/class/net/minecraft/client/particle/ParticleEngine.class",
+      "size": 89790,
+      "hashes": {
+        "sha1": "8c5d8d0d55f83d3672a9b26834415d397b8c1ba7"
+      }
+    },
+    {
+      "path": ".mixin.out/class/net/minecraft/client/particle/SingleQuadParticle.class",
+      "size": 16372,
+      "hashes": {
+        "sha1": "13fc9f1839b1127cfd389f8c0926f1f4abafa376"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/item_shelf_acacia.json",
+      "size": 240,
+      "hashes": {
+        "sha1": "443be5fa6c6d524951b0c86369467f26116ea7ce"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/item_shelf_bamboo.json",
+      "size": 240,
+      "hashes": {
+        "sha1": "ad8d980b133cbdd8d9cac05f26dfe53d48450b5c"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/item_shelf_birch.json",
+      "size": 239,
+      "hashes": {
+        "sha1": "a24f61ed25ad42bb03829e56184fcd92f3bb85c7"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/item_shelf_cherry.json",
+      "size": 240,
+      "hashes": {
+        "sha1": "8a133876986625f99fca3a8a794d845996979139"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/item_shelf_crimson.json",
+      "size": 241,
+      "hashes": {
+        "sha1": "28f2a3431d69eb5d875a7bb2f484be9029365b0c"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/item_shelf_dark_oak.json",
+      "size": 242,
+      "hashes": {
+        "sha1": "c81887d64713f79a11414c14e1ca9d0b0c06fa73"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/item_shelf_jungle.json",
+      "size": 240,
+      "hashes": {
+        "sha1": "4258fcc8e518910e151109808ee3bd7d4312cc47"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/item_shelf_mangrove.json",
+      "size": 242,
+      "hashes": {
+        "sha1": "454702694aebba72c0c7fa66b709ab0dafa6cf19"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/item_shelf_spruce.json",
+      "size": 240,
+      "hashes": {
+        "sha1": "8d60b5ea1689411ef9fac87acb6b8ae785e8589d"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/item_shelf_warped.json",
+      "size": 240,
+      "hashes": {
+        "sha1": "a6536a873a333f053275b69f7fc8bcdde6281330"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/tags/item/item_shelves.json",
+      "size": 546,
+      "hashes": {
+        "sha1": "3cc5ae59e4151c99a736afe7792c8ca5cccfc140"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/createdieselgenerators/item_shelf_chip_wood.json",
+      "size": 687,
+      "hashes": {
+        "sha1": "b334678821624223f67cf726a8308995c4e5ad3b"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/tags/block/item_shelves.json",
+      "size": 546,
+      "hashes": {
+        "sha1": "3cc5ae59e4151c99a736afe7792c8ca5cccfc140"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/mynethersdelight/item_shelf_powdery.json",
+      "size": 671,
+      "hashes": {
+        "sha1": "d27909c259f7d1d1d57eadc3f9d96b36ca33daf6"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/tags/item/cannon_boats.json",
+      "size": 398,
+      "hashes": {
+        "sha1": "7c0c70b8f52b6b312ce5b3bbdabb6db946379a0d"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/tags/item/way_signs.json",
+      "size": 572,
+      "hashes": {
+        "sha1": "12cf6f13954bd37f1a43222f9283fef4d5d5415a"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/createdieselgenerators/item_shelf_chip_wood.json",
+      "size": 507,
+      "hashes": {
+        "sha1": "49c51fc912c19f0be52b1a4ccddafce8c8114fe8"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/blockstates/mynethersdelight/item_shelf_powdery.json",
+      "size": 475,
+      "hashes": {
+        "sha1": "32f37c8e4c14208bc46febc2b03fca860f73bd5d"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/item_shelf_acacia.json",
+      "size": 136,
+      "hashes": {
+        "sha1": "aa275c2ae92d60aee0010ec44fcdec16bb1ffed8"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/item_shelf_bamboo.json",
+      "size": 136,
+      "hashes": {
+        "sha1": "7a9f21e0035dc6bc7309dac99b403cc92b784b98"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/item_shelf_birch.json",
+      "size": 135,
+      "hashes": {
+        "sha1": "4f88e4256e289f74dae1749424a84be1c87335a2"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/item_shelf_cherry.json",
+      "size": 136,
+      "hashes": {
+        "sha1": "33960a8effc0de167e94cac64cc3b2b77a30af93"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/item_shelf_crimson.json",
+      "size": 137,
+      "hashes": {
+        "sha1": "9772a7eef94bb1952db6c2ca9074e81641a38cf7"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/item_shelf_dark_oak.json",
+      "size": 138,
+      "hashes": {
+        "sha1": "5fe0399ca41b3a34e730931b49ac67e3d12efd9f"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/item_shelf_jungle.json",
+      "size": 136,
+      "hashes": {
+        "sha1": "65aa8b31f2b3093fd66af5a17361e235e1eb5bee"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/item_shelf_mangrove.json",
+      "size": 138,
+      "hashes": {
+        "sha1": "729ded0da41e8739f1013c7aef7ddd90648b0354"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/item_shelf_spruce.json",
+      "size": 136,
+      "hashes": {
+        "sha1": "53531c150e384057ec1645f4202aa8ef3696ce09"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/item_shelf_warped.json",
+      "size": 136,
+      "hashes": {
+        "sha1": "29dc4ae15d48351e32e4481e13fa4cca138518da"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/minecraft/models/item/crossbow.json",
+      "size": 1832,
+      "hashes": {
+        "sha1": "4797f1706813d43dbf3ce0eb59400476e60b5da9"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/minecraft/models/item/filled_map.json",
+      "size": 278,
+      "hashes": {
+        "sha1": "c0b9fb886aa1f0e518ec1b00ab03f2427dfed9bf"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/minecraft/models/item/written_book.json",
+      "size": 268,
+      "hashes": {
+        "sha1": "ac1f189b7a28854d65548b7b5d263295859f34f7"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/enderman_head.png",
+      "size": 881,
+      "hashes": {
+        "sha1": "ce7095f0ef9c2daf5a85f9ffe263bd9bf84663fa"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/enderman_head_eyes.png",
+      "size": 162,
+      "hashes": {
+        "sha1": "e52ab20dc8c1669ba5e553f5b76872dd5ae673c1"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/spider_head.png",
+      "size": 2011,
+      "hashes": {
+        "sha1": "6b33e98f0c9087d21c9eae99d909b22a9f18f58c"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/spider_head_eyes.png",
+      "size": 203,
+      "hashes": {
+        "sha1": "675a38f277aa3a967a99cead3ce8a65a00e82126"
+      }
+    },
+    {
+      "path": ".mixin.out/class/net/minecraft/world/level/block/NetherPortalBlock.class",
+      "size": 27319,
+      "hashes": {
+        "sha1": "88cd566b8ea8110882d2010f36ca8cadc35cb4ee"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/mynethersdelight/item_shelf_powdery.json",
+      "size": 258,
+      "hashes": {
+        "sha1": "54e31bffb7e18c464edd450d0b5b567764194cb3"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/loot_table/blocks/createdieselgenerators/item_shelf_chip_wood.json",
+      "size": 266,
+      "hashes": {
+        "sha1": "dc6a6346c5bd8fb4b39d5788623ea34af83801c4"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/suppsquared-dynamic_assets/data/suppsquared/recipe/item_shelf_dark_oak/minecraft/dark_oak.json",
+      "size": 649,
+      "hashes": {
+        "sha1": "6127bd49fa5b8fcf875102692f49f0a7b8d796eb"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/tags/worldgen/biome/has_barnacles.json",
+      "size": 103,
+      "hashes": {
+        "sha1": "d14699b6f5b5e043c6d86d49148c680c051e131d"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/tags/worldgen/biome/has_basalt_ash.json",
+      "size": 129,
+      "hashes": {
+        "sha1": "c1d2fdec41a734a25be100e622160b3a54d5b5d3"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/tags/worldgen/biome/has_cave_urns.json",
+      "size": 51,
+      "hashes": {
+        "sha1": "b020f6cdcd2d955793278b2f89a178a1d31e599a"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/tags/worldgen/biome/has_galleons.json",
+      "size": 47,
+      "hashes": {
+        "sha1": "afd9da16b8e57511d3b12c69ccd4555d71ebb29f"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/tags/worldgen/biome/has_road_signs.json",
+      "size": 51,
+      "hashes": {
+        "sha1": "b020f6cdcd2d955793278b2f89a178a1d31e599a"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/tags/worldgen/biome/has_wild_flax.json",
+      "size": 51,
+      "hashes": {
+        "sha1": "b020f6cdcd2d955793278b2f89a178a1d31e599a"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/acacia.json",
+      "size": 170,
+      "hashes": {
+        "sha1": "ad39ee8db01c7e849476ebe332e74aec7e471d3f"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/bamboo.json",
+      "size": 170,
+      "hashes": {
+        "sha1": "405f01a3292248a0add7cb98d2c4870d2ae9363e"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/birch.json",
+      "size": 168,
+      "hashes": {
+        "sha1": "19b85822233f62ea3f09f0a99d9725911ec89845"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/cherry.json",
+      "size": 170,
+      "hashes": {
+        "sha1": "cda949c681c3b4b853a3efb7b0af4c2da681619f"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/crimson.json",
+      "size": 172,
+      "hashes": {
+        "sha1": "d8cc7ae9fa6e4a8c7f72c6fcd838cef751d25796"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/dark_oak.json",
+      "size": 174,
+      "hashes": {
+        "sha1": "940780aab1a64b256ba4660acbb44259701b6591"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/jungle.json",
+      "size": 170,
+      "hashes": {
+        "sha1": "2f6fc15184b9f30d487f4f5b45db874561c9f710"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/mangrove.json",
+      "size": 174,
+      "hashes": {
+        "sha1": "df57ee5e1d71418d24a9059f8e5464e47eb0431c"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/warped.json",
+      "size": 170,
+      "hashes": {
+        "sha1": "18777af489577ede7a645e7359df9d3ceb195b1e"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/spruce.json",
+      "size": 170,
+      "hashes": {
+        "sha1": "f3cc7bf6f989a412557f1ab0e7b63b6c31f0b8a7"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/createdieselgenerators/item_shelf_chip_wood.json",
+      "size": 162,
+      "hashes": {
+        "sha1": "976771775765643265548752a05114fe5dee5107"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/cannon_boat_dark_oak/minecraft/dark_oak.json",
+      "size": 867,
+      "hashes": {
+        "sha1": "7d81a503af3efc1be93d844cb1765320f0975502"
+      }
+    },
+    {
+      "path": "dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_dark_oak/minecraft/dark_oak.json",
+      "size": 623,
+      "hashes": {
+        "sha1": "cc6b20aebf5e031d65a0062af949b521a16fab64"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/item/mynethersdelight/item_shelf_powdery.json",
+      "size": 154,
+      "hashes": {
+        "sha1": "d2830cb3b97427004231d4f2215156346cdf8141"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/acacia.png",
+      "size": 272,
+      "hashes": {
+        "sha1": "5dc0fe7b5b9b5b9162d715d057f367307f8a12bf"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/bamboo.png",
+      "size": 278,
+      "hashes": {
+        "sha1": "f99f1fb68aaac950b78817af72833d111dce3392"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/birch.png",
+      "size": 272,
+      "hashes": {
+        "sha1": "6b93bc3ef9dedb05e7fca0d3605be3578c47916b"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/cherry.png",
+      "size": 260,
+      "hashes": {
+        "sha1": "87f8113e6044d8e13f46063d5a60faf930802654"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/crimson.png",
+      "size": 269,
+      "hashes": {
+        "sha1": "180275b530314c0e453fa215a21d0d44093904ee"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/dark_oak.png",
+      "size": 260,
+      "hashes": {
+        "sha1": "11d4c9f8a334f3e2c6da562d74f8f70b4b0d92b2"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/item_shelf.png",
+      "size": 266,
+      "hashes": {
+        "sha1": "59799220d3994b816a736c0abbebf1d831255698"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/jungle.png",
+      "size": 270,
+      "hashes": {
+        "sha1": "b84bf161b38b634d57ad382f6b198cb73c239c62"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/mangrove.png",
+      "size": 271,
+      "hashes": {
+        "sha1": "308c23079710cd5b8cf40c1ab6cd0a477cfa887c"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/spruce.png",
+      "size": 268,
+      "hashes": {
+        "sha1": "e53ac9ca82e0c0fc6bb90750018226a62831b95b"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/warped.png",
+      "size": 262,
+      "hashes": {
+        "sha1": "257194547d5cb9901549946096539eeb02693619"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/models/item/createdieselgenerators/way_sign_chip_wood.json",
+      "size": 142,
+      "hashes": {
+        "sha1": "fecd1ac88b58944561fd442ca533deed1eb0209a"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/acacia.png",
+      "size": 256,
+      "hashes": {
+        "sha1": "ab1ff00b31179e383873f7ac0cf848062c3b987c"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/bamboo.png",
+      "size": 254,
+      "hashes": {
+        "sha1": "da3ae7e1f7076472e4606d29333ef734f382a3b1"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/birch.png",
+      "size": 254,
+      "hashes": {
+        "sha1": "ff473b78f78226fcbb97aabbd19b61efb3b7e5cb"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/cherry.png",
+      "size": 241,
+      "hashes": {
+        "sha1": "eb074690fc8bb73d0664fbf457065713aa3744fb"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/crimson.png",
+      "size": 258,
+      "hashes": {
+        "sha1": "7d84746ca0b4b4a83ccf75df7e8fa3b71262e9d6"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/item_shelf.png",
+      "size": 257,
+      "hashes": {
+        "sha1": "5a480aa56448b86b25cdaba97627fc24c1ce396d"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/jungle.png",
+      "size": 250,
+      "hashes": {
+        "sha1": "93fe7e7d4e6de79032c8fe1836b141dd3399df90"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/mangrove.png",
+      "size": 254,
+      "hashes": {
+        "sha1": "01a06c35b4719434c6f7cd0a38df837e01a56213"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/spruce.png",
+      "size": 257,
+      "hashes": {
+        "sha1": "2bcf7af27c7a452f92887a6ed00fb6861ddfcd04"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/warped.png",
+      "size": 250,
+      "hashes": {
+        "sha1": "e204f8a6625f2524920fca732e190e1b83cb795a"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/models/item/mynethersdelight/way_sign_powdery.json",
+      "size": 134,
+      "hashes": {
+        "sha1": "3a033991372fee28305043e49981eff9786ab30e"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/dark_oak.png",
+      "size": 254,
+      "hashes": {
+        "sha1": "62e9acef8680d86dcfa6b6590939b2a146c4d36e"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/cannon_boat/acacia.png",
+      "size": 3692,
+      "hashes": {
+        "sha1": "aba722ef8c01115b0eea71cfc4cf78ed7c1fb2cc"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/cannon_boat/bamboo.png",
+      "size": 2235,
+      "hashes": {
+        "sha1": "040bf659178c1e43d802c9a2ed6e69ee8a378786"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/cannon_boat/birch.png",
+      "size": 3807,
+      "hashes": {
+        "sha1": "348ec04d96445288ac1836f7d0147ad2e60921ed"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/cannon_boat/cherry.png",
+      "size": 3640,
+      "hashes": {
+        "sha1": "4e71c7066c030595e0dfacb204ba82b03e2b6a19"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/cannon_boat/jungle.png",
+      "size": 3559,
+      "hashes": {
+        "sha1": "eef97ce563766769ba945b68434060dca7129d82"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/cannon_boat/mangrove.png",
+      "size": 3872,
+      "hashes": {
+        "sha1": "a45f01a086dea64c157bfa8c7c99472e002652ca"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/cannon_boat/dark_oak.png",
+      "size": 3652,
+      "hashes": {
+        "sha1": "681b2dc3bb4a56f980ab6b3982016569f5d2629e"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/entity/cannon_boat/spruce.png",
+      "size": 3691,
+      "hashes": {
+        "sha1": "de799d43c1cef21a35cb3bbc492ce6692f593a6a"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/createdieselgenerators/chip_wood.json",
+      "size": 222,
+      "hashes": {
+        "sha1": "89f96422c5527eb3be0f3af904130b23f7683a7d"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/models/block/item_shelves/mynethersdelight/powdery.json",
+      "size": 206,
+      "hashes": {
+        "sha1": "5ac1b26bb11c4e80e87c50dd6daa6012af6c94ea"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/createdieselgenerators/chip_wood.png",
+      "size": 266,
+      "hashes": {
+        "sha1": "b47e819fdd7f0fe7f1a9e7d9828b52082fdf12b8"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/block/item_shelves/mynethersdelight/powdery.png",
+      "size": 255,
+      "hashes": {
+        "sha1": "91030c186d4fbce245bcb6658da0aeca07f22ae7"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/mynethersdelight/powdery.png",
+      "size": 250,
+      "hashes": {
+        "sha1": "e055270e43aec174805f8256b904a0eb02ed9175"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/suppsquared-dynamic_assets/assets/suppsquared/textures/item/item_shelves/createdieselgenerators/chip_wood.png",
+      "size": 258,
+      "hashes": {
+        "sha1": "059b8030bd9e31d179b4db92f4bfad63db0a0d3e"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/block/way_signs/createdieselgenerators/way_sign_chip_wood.png",
+      "size": 277,
+      "hashes": {
+        "sha1": "e570a6b252f27d6a1e23f59728fefd283eaabd07"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/block/way_signs/mynethersdelight/way_sign_powdery.png",
+      "size": 281,
+      "hashes": {
+        "sha1": "c57bdd3ec55c7f6026421f901ade2db0e5312e99"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/item/way_signs/createdieselgenerators/way_sign_chip_wood.png",
+      "size": 239,
+      "hashes": {
+        "sha1": "d30183edea493b1313a6c4343001c587b6467694"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/textures/item/way_signs/mynethersdelight/way_sign_powdery.png",
+      "size": 246,
+      "hashes": {
+        "sha1": "e063cdce1a67ae6fe44c3d01c62f3c1ed5322471"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/models/special_models/block/way_signs/mynethersdelight/way_sign_powdery.json",
+      "size": 272,
+      "hashes": {
+        "sha1": "5de1e3fd3370e96f3a96d79a785f525e9e08f3a4"
+      }
+    },
+    {
+      "path": "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supplementaries/models/special_models/block/way_signs/createdieselgenerators/way_sign_chip_wood.json",
+      "size": 288,
+      "hashes": {
+        "sha1": "f0a1f69b44619ec7ecae116766f2662b6d4cc498"
+      }
+    }
+  ],
+  "name": "1.21.1-neoforge21.1.250",
+  "description": "",
+  "runtime": {
+    "minecraft": "1.21.1",
+    "forge": "",
+    "neoForged": "21.1.250",
+    "fabricLoader": "",
+    "quiltLoader": "",
+    "optifine": "",
+    "labyMod": ""
+  },
+  "fingerprint": "d5ea2ccdae2014cca48ff92b31bcc934784e2e9b1607e20bf1de365d6b7066c4"
+}
